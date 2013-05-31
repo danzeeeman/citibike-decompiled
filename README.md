@@ -34,7 +34,7 @@ the table is bikelanes and has the following columns
 		3|elng|REAL|0||0
 		4|bikelanes|REAL|0||0
 
-if you run `select * from bikelanes;` you should see TONS of starting and end points read to be drawn on a map
+if you run `select * from bikelanes;` you should see TONS of starting and end points ready to be drawn on a map
 
 branch.json looks like it has all of the locations
 
