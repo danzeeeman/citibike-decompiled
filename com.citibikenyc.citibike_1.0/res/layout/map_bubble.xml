@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="@drawable/map_infobubble" android:padding="0.0dip" android:layout_width="267.0dip" android:layout_height="75.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.citibikenyc.citibike.helpers.FontableTextView android:textSize="16.0sp" android:textStyle="bold" android:textColor="#ff000000" android:id="@id/bubble_label" android:paddingLeft="16.0dip" android:paddingTop="10.0dip" android:layout_width="225.0dip" android:layout_height="wrap_content" android:text="@string/map_bubble_sample" android:singleLine="true" />
+    <com.citibikenyc.citibike.helpers.FontableTextView android:textSize="14.0sp" android:textColor="#ff747474" android:id="@id/bubble_description" android:paddingRight="5.0dip" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="16.0dip" android:text="@string/default_value" />
+    <LinearLayout android:orientation="horizontal" android:id="@id/bubble_bikeinfo" android:padding="1.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="16.0dip">
+        <com.citibikenyc.citibike.helpers.FontableTextView android:textSize="14.0sp" android:textColor="#ff747474" android:id="@id/bubble_bikesAvailable" android:paddingRight="5.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/default_value" />
+        <com.citibikenyc.citibike.helpers.FontableTextView android:textSize="14.0sp" android:textColor="#ff747474" android:id="@id/bubble_bikesAvailableLabel" android:paddingRight="5.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/bikes_label" />
+        <com.citibikenyc.citibike.helpers.FontableTextView android:textSize="14.0sp" android:textColor="#ff747474" android:id="@id/bubble_docksAvailable" android:paddingRight="5.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/default_value" />
+        <com.citibikenyc.citibike.helpers.FontableTextView android:textSize="14.0sp" android:textColor="#ff747474" android:id="@id/bubble_docksAvailableLabel" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/docks_label" />
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_google_play_services_install_title">Установите Сервисы Google Play</string>
+    <string name="common_google_play_services_install_text_phone">Для работы этого приложения требуется установить Сервисы Google Play.</string>
+    <string name="common_google_play_services_install_text_tablet">Для работы этого приложения требуется установить Сервисы Google Play.</string>
+    <string name="common_google_play_services_install_button">Установить</string>
+    <string name="common_google_play_services_enable_title">Включите Сервисы Google Play</string>
+    <string name="common_google_play_services_enable_text">Для работы этого приложения требуется включить Сервисы Google Play.</string>
+    <string name="common_google_play_services_enable_button">Включить Сервисы Google Play</string>
+    <string name="common_google_play_services_update_title">Обновите Сервисы Google Play</string>
+    <string name="common_google_play_services_update_text">Для работы этого приложения требуется обновить Сервисы Google Play.</string>
+    <string name="common_google_play_services_update_button">Обновить</string>
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/MoreContainer">
+        <com.citibikenyc.citibike.helpers.FontableTextView android:text="@string/safety_rules_title" style="@style/MoreTitle" />
+        <LinearLayout android:id="@id/contact_main" style="@style/MoreMain">
+            <com.citibikenyc.citibike.helpers.FontableTextView android:text="@string/safety_rules_h1" style="@style/MoreH2" />
+            <com.citibikenyc.citibike.helpers.FontableTextView android:text="@string/safety_rules_p1" style="@style/MoreLI" />
+            <com.citibikenyc.citibike.helpers.FontableTextView android:text="@string/safety_rules_p2" style="@style/MoreLI" />
+            <com.citibikenyc.citibike.helpers.FontableTextView android:text="@string/safety_rules_p3" style="@style/MoreLI" />
+            <com.citibikenyc.citibike.helpers.FontableTextView android:text="@string/safety_rules_p4" style="@style/MoreLI" />
+            <com.citibikenyc.citibike.helpers.FontableTextView android:layout_marginTop="5.0dip" android:text="@string/safety_rules_p5" style="@style/MoreP" />
+            <com.citibikenyc.citibike.helpers.FontableTextView android:layout_marginTop="5.0dip" android:text="@string/safety_rules_p6" style="@style/MoreP" />
+            <com.citibikenyc.citibike.helpers.FontableTextView android:text="@string/safety_rules_p7" style="@style/MoreP" />
+            <Button android:id="@id/safety_button_bikesmart" android:text="@string/safety_rules_bike_smart_btn" android:onClick="onBikeSmart" style="@style/MoreButton" />
+            <Button android:id="@id/safety_button_download" android:text="@string/safety_rules_download_now_btn" android:onClick="onSafetyDownload" style="@style/MoreButton" />
+            <com.citibikenyc.citibike.helpers.FontableTextView android:text="@string/safety_rules_p8" style="@style/MorePlast" />
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>

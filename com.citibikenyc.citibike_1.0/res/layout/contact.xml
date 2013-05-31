@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:id="@id/contact" android:layout_width="fill_parent" android:layout_height="fill_parent" style="@style/MoreContainer"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.citibikenyc.citibike.helpers.FontableTextView android:text="@string/contact_title" style="@style/MoreTitle" />
+    <LinearLayout android:id="@id/contact_main" style="@style/MoreMain">
+        <com.citibikenyc.citibike.helpers.FontableTextView android:layout_width="175.0dip" android:text="@string/contact_header" style="@style/MoreH1" />
+        <com.citibikenyc.citibike.helpers.FontableTextView android:textStyle="bold" android:layout_marginTop="5.0dip" android:text="@string/contact_subheader" style="@style/MoreP" />
+        <View android:layout_marginTop="22.0dip" android:layout_marginBottom="19.0dip" style="@style/DottedDividerHorizontal" />
+        <Button android:id="@id/contact_button_call" android:clickable="true" android:layout_marginBottom="10.0dip" android:text="@string/contact_phone" style="@style/MoreButton" />
+        <Button android:id="@id/contact_button_email" android:layout_marginBottom="10.0dip" android:text="@string/contact_send_email" style="@style/MoreButton" />
+        <Button android:id="@id/contact_button_web" android:layout_marginBottom="10.0dip" android:text="@string/contact_url" style="@style/MoreButton" />
+        <View android:layout_marginTop="10.0dip" style="@style/DottedDividerHorizontal" />
+    </LinearLayout>
+</LinearLayout>

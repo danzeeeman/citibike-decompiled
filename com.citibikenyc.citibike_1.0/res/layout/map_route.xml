@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/map_route" android:background="#ffe6e7ea" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:app="http://schemas.android.com/apk/res/com.citibikenyc.citibike">
+    <LinearLayout android:gravity="center_vertical" android:background="#fffafafa" android:paddingLeft="15.0dip" android:paddingTop="10.0dip" android:paddingRight="10.0dip" android:paddingBottom="19.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:baselineAligned="false">
+        <LinearLayout android:orientation="vertical" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0">
+            <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <com.citibikenyc.citibike.helpers.FontableTextView android:textSize="18.0sp" android:textColor="#ff999999" android:id="@id/route_startLabel" android:focusable="true" android:layout_width="54.0dip" android:layout_height="wrap_content" android:text="@string/map_route_start" />
+                <com.citibikenyc.citibike.helpers.PlaceAutoCompleteTextView android:textSize="18.0sp" android:textColor="@*android:color/primary_text_light" android:textColorHint="#ff999999" android:id="@id/startAddress" android:layout_width="0.0dip" android:layout_height="wrap_content" android:completionThreshold="1" android:layout_weight="1.0" android:inputType="textPostalAddress" app:expandedHintText="Start:" />
+            </LinearLayout>
+            <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <com.citibikenyc.citibike.helpers.FontableTextView android:textSize="18.0sp" android:textColor="#ff999999" android:id="@id/route_endLabel" android:layout_width="54.0dip" android:layout_height="wrap_content" android:text="@string/map_route_end" />
+                <com.citibikenyc.citibike.helpers.PlaceAutoCompleteTextView android:textSize="18.0sp" android:textColor="@*android:color/primary_text_light" android:textColorHint="#ff999999" android:id="@id/endAddress" android:layout_width="0.0dip" android:layout_height="wrap_content" android:completionThreshold="1" android:layout_weight="1.0" android:inputType="textPostalAddress" app:expandedHintText="End:" />
+            </LinearLayout>
+        </LinearLayout>
+        <RelativeLayout android:layout_width="52.0dip" android:layout_height="36.0dip" android:layout_marginLeft="14.0dip">
+            <Button android:textSize="12.0sp" android:id="@id/route_routeButton" android:visibility="gone" android:text="@string/map_route_label" android:onClick="onReroute" style="@style/OverlayButton" />
+            <ImageButton android:id="@id/route_reverseButton" android:focusable="true" android:layout_width="52.0dip" android:layout_height="36.0dip" android:src="@drawable/map_route_reverse_button" android:onClick="reverseRoute" android:contentDescription="@string/map_route_reverse_desc" style="@style/OverlayButton" />
+        </RelativeLayout>
+    </LinearLayout>
+    <View android:layout_margin="0.0dip" style="@style/MenuDivider" />
+    <ListView android:id="@id/directionsList" android:layout_width="fill_parent" android:layout_height="fill_parent" android:drawSelectorOnTop="false" android:divider="@null" android:dividerHeight="0.0dip" />
+</LinearLayout>

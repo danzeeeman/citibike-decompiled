@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_google_play_services_install_title">Изтегляне на услугите за Google Play</string>
+    <string name="common_google_play_services_install_text_phone">Това приложение няма да се изпълнява без услугите за Google Play, които липсват в телефона ви.</string>
+    <string name="common_google_play_services_install_text_tablet">Това приложение няма да се изпълнява без услугите за Google Play, които липсват в таблета ви.</string>
+    <string name="common_google_play_services_install_button">Услуги за Google Play: Изтегл.</string>
+    <string name="common_google_play_services_enable_title">Активиране на услугите за Google Play</string>
+    <string name="common_google_play_services_enable_text">Това приложение няма да работи, освен ако не активирате услугите за Google Play.</string>
+    <string name="common_google_play_services_enable_button">Услуги за Google Play: Акт.</string>
+    <string name="common_google_play_services_update_title">Актуализиране на услугите за Google Play</string>
+    <string name="common_google_play_services_update_text">Това приложение няма да се изпълнява, освен ако не актуализирате услугите за Google Play.</string>
+    <string name="common_google_play_services_update_button">Актуализиране</string>
+</resources>

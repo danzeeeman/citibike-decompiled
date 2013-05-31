@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="fill_parent" android:layout_height="fill_parent" android:fillViewport="true"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/MoreContainer">
+        <com.citibikenyc.citibike.helpers.FontableTextView android:text="@string/safety_nyc_cycling_map_title" style="@style/MoreTitle" />
+        <LinearLayout android:orientation="vertical" android:layout_height="fill_parent" style="@style/MoreMain">
+            <com.citibikenyc.citibike.helpers.FontableTextView android:text="@string/safety_nyc_cycling_map_p1" style="@style/MoreP" />
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_google_play_services_install_title">Kunin ang mga serbisyo ng Google Play</string>
+    <string name="common_google_play_services_install_text_phone">Hindi gagana ang app na ito nang wala ang mga serbisyo ng Google Play, na wala sa iyong telepono.</string>
+    <string name="common_google_play_services_install_text_tablet">Hindi gagana ang app na ito nang wala ang mga serbisyo ng Google Play, na wala sa iyong tablet.</string>
+    <string name="common_google_play_services_install_button">Kunin serbisyo ng Google Play</string>
+    <string name="common_google_play_services_enable_title">Paganahin ang serbisyo ng Google Play</string>
+    <string name="common_google_play_services_enable_text">Hindi gagana ang app na ito maliban na lang kung papaganahin mo ang mga serbisyo ng Google Play.</string>
+    <string name="common_google_play_services_enable_button">Paganahin Google Play service</string>
+    <string name="common_google_play_services_update_title">I-update ang mga serbisyo ng Google Play</string>
+    <string name="common_google_play_services_update_text">Hindi gagana ang app na ito maliban na lang kung i-a-update mo ang mga serbisyo ng Google Play.</string>
+    <string name="common_google_play_services_update_button">I-update</string>
+</resources>

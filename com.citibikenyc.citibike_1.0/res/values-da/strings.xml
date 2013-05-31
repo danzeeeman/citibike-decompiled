@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_google_play_services_install_title">Hent Google Play Tjenester</string>
+    <string name="common_google_play_services_install_text_phone">Denne app kan ikke køre uden Google Play Tjenester, som mangler på din telefon.</string>
+    <string name="common_google_play_services_install_text_tablet">Denne app kan ikke køre uden Google Play Tjenester, som mangler på din tablet.</string>
+    <string name="common_google_play_services_install_button">Hent Google Play Tjenester</string>
+    <string name="common_google_play_services_enable_title">Aktivér Google Play Tjenester</string>
+    <string name="common_google_play_services_enable_text">Denne app virker ikke, medmindre du aktiverer Google Play Tjenester.</string>
+    <string name="common_google_play_services_enable_button">Aktivér Google Play Tjenester</string>
+    <string name="common_google_play_services_update_title">Opdater Google Play Tjenester</string>
+    <string name="common_google_play_services_update_text">Denne app kan ikke køre, medmindre du opdaterer Google Play Tjenester.</string>
+    <string name="common_google_play_services_update_button">Opdater</string>
+</resources>

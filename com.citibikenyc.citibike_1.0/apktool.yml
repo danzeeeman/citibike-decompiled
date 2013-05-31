@@ -1,0 +1,13 @@
+version: 1.5.2
+apkFileName: com.citibikenyc.citibike_1.0.apk
+isFrameworkApk: false
+usesFramework:
+  ids:
+  - 1
+sdkInfo:
+  minSdkVersion: '10'
+  targetSdkVersion: '17'
+packageInfo:
+  cur_package: com.citibikenyc.citibike
+  orig_package: com.citibikenyc.citibike
+compressionType: false

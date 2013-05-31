@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/MoreContainer">
+        <com.citibikenyc.citibike.helpers.FontableTextView android:text="@string/pricing_annual_header" style="@style/MoreTitle" />
+        <LinearLayout style="@style/MoreMain">
+            <LinearLayout android:layout_marginBottom="1.0dip" style="@style/MoreRow">
+                <com.citibikenyc.citibike.helpers.FontableTextView android:text="@string/pricing_annual" style="@style/MoreRowLeftH1" />
+                <com.citibikenyc.citibike.helpers.FontableTextView android:text="@string/pricing_annual_price" style="@style/MoreRowRightH3" />
+            </LinearLayout>
+            <com.citibikenyc.citibike.helpers.FontableTextView android:text="@string/pricing_annual_savings" style="@style/MoreP" />
+            <View style="@style/MoreDivider" />
+            <LinearLayout style="@style/MoreHighlightBox">
+                <com.citibikenyc.citibike.helpers.FontableTextView android:text="@string/pricing_annual_line1" style="@style/MoreH2" />
+                <com.citibikenyc.citibike.helpers.FontableTextView android:text="@string/pricing_no_extra" style="@style/MoreH3" />
+                <com.citibikenyc.citibike.helpers.FontableTextView android:text="@string/pricing_timer_reset_message" style="@style/MoreP" />
+            </LinearLayout>
+            <View style="@style/MoreDivider" />
+            <com.citibikenyc.citibike.helpers.FontableTextView android:text="@string/pricing_overtime_fees_label" style="@style/MoreH2" />
+            <com.citibikenyc.citibike.helpers.FontableTextView android:text="@string/pricing_annual_p1" style="@style/MoreP" />
+            <com.citibikenyc.citibike.helpers.FontableTextView android:text="@string/pricing_annual_p2" style="@style/MorePlast" />
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>

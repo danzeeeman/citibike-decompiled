@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_google_play_services_install_title">Obtenció de Google Play Services</string>
+    <string name="common_google_play_services_install_text_phone">Aquesta aplicació no funcionarà sense Google Play Services, que falten al telèfon.</string>
+    <string name="common_google_play_services_install_text_tablet">Aquesta aplicació no funcionarà sense Google Play Services, que falten a la tauleta.</string>
+    <string name="common_google_play_services_install_button">Obtén Google Play Services</string>
+    <string name="common_google_play_services_enable_title">Activació de Google Play Services</string>
+    <string name="common_google_play_services_enable_text">Aquesta aplicació no funcionarà si no actives Google Play Services.</string>
+    <string name="common_google_play_services_enable_button">Activa Google Play Services</string>
+    <string name="common_google_play_services_update_title">Actualització de Google Play Services</string>
+    <string name="common_google_play_services_update_text">"Aquesta aplicació no s'executarà si no actualitzes Google Play Services."</string>
+    <string name="common_google_play_services_update_button">Actualitza</string>
+</resources>

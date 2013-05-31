@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_google_play_services_install_title">Google Play सेवाएं प्राप्त करें</string>
+    <string name="common_google_play_services_install_text_phone">यह एप्लिकेशन Google Play सेवाओं के बिना नहीं चलेगा, जो आपके फ़ोन में नहीं हैं.</string>
+    <string name="common_google_play_services_install_text_tablet">यह एप्लिकेशन Google Play सेवाओं के बिना नहीं चलेगा, जो आपके टेबलेट में नहीं हैं.</string>
+    <string name="common_google_play_services_install_button">Google Play सेवा प्राप्त करें</string>
+    <string name="common_google_play_services_enable_title">Google Play सेवाएं सक्षम करें</string>
+    <string name="common_google_play_services_enable_text">जब तक आप Google Play सेवाएं सक्षम नहीं करते, तब तक यह एप्लिकेशन कार्य नहीं करेगा.</string>
+    <string name="common_google_play_services_enable_button">Google Play सेवाएं सक्षम करें</string>
+    <string name="common_google_play_services_update_title">Google Play सेवाएं अपडेट करें</string>
+    <string name="common_google_play_services_update_text">जब तक आप Google Play सेवाओं को अपडेट नहीं करते, तब तक यह एप्लिकेशन नहीं चलेगा.</string>
+    <string name="common_google_play_services_update_button">अपडेट करें</string>
+</resources>

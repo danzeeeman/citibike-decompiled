@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bitmap android:src="@drawable/map_overlay_dots_vdivider" android:dither="false" android:tileMode="repeat"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

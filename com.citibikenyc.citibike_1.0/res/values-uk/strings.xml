@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_google_play_services_install_title">Установити Google Play Послуги</string>
+    <string name="common_google_play_services_install_text_phone">Ця програма не запуститься без Google Play Послуг, яких немає у вашому телефоні.</string>
+    <string name="common_google_play_services_install_text_tablet">Ця програма не запуститься без Google Play Послуг, яких немає на вашому планшетному ПК.</string>
+    <string name="common_google_play_services_install_button">Отримати Google Play Послуги</string>
+    <string name="common_google_play_services_enable_title">Увімкнути Google Play Послуги</string>
+    <string name="common_google_play_services_enable_text">Ця програма не працюватиме, поки ви не ввімкнете Google Play Послуги.</string>
+    <string name="common_google_play_services_enable_button">Увімкнути Google Play Послуги</string>
+    <string name="common_google_play_services_update_title">Оновити Google Play послуги</string>
+    <string name="common_google_play_services_update_text">Ця програма не запуститься, поки ви не оновите Google Play Послуги.</string>
+    <string name="common_google_play_services_update_button">Оновити</string>
+</resources>

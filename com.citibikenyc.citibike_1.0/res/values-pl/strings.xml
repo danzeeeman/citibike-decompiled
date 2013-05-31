@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_google_play_services_install_title">Pobierz Usługi Google Play</string>
+    <string name="common_google_play_services_install_text_phone">Ta aplikacja nie będzie działać bez Usług Google Play, których brak na telefonie.</string>
+    <string name="common_google_play_services_install_text_tablet">Ta aplikacja nie będzie działać bez Usług Google Play, których brak na tablecie.</string>
+    <string name="common_google_play_services_install_button">Pobierz Usługi Google Play</string>
+    <string name="common_google_play_services_enable_title">Włącz Usługi Google Play</string>
+    <string name="common_google_play_services_enable_text">Ta aplikacja nie będzie działać, jeśli nie włączysz Usług Google Play.</string>
+    <string name="common_google_play_services_enable_button">Włącz Usługi Google Play</string>
+    <string name="common_google_play_services_update_title">Aktualizuj Usługi Google Play</string>
+    <string name="common_google_play_services_update_text">Ta aplikacja nie będzie działać, jeśli nie zaktualizujesz Usług Google Play.</string>
+    <string name="common_google_play_services_update_button">Aktualizuj</string>
+</resources>

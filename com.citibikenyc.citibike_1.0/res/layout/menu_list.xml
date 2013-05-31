@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:background="@drawable/menu_background" android:padding="0.0dip" android:scrollbars="none" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_margin="0.0dip" android:isScrollContainer="true"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:app="http://schemas.android.com/apk/res/com.citibikenyc.citibike">
+    <LinearLayout android:gravity="top" android:orientation="vertical" android:id="@id/menu_drawer" android:paddingTop="12.0dip" android:clickable="true" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_margin="0.0dip">
+        <com.citibikenyc.citibike.helpers.MenuButton android:id="@id/menu_button_map" android:text="@string/menu_map" app:drawableLeft_on="menu_nav_map_on" app:drawableLeft_off="menu_nav_map_off" style="@style/MenuButton" />
+        <View style="@style/MenuDivider" />
+        <com.citibikenyc.citibike.helpers.MenuButton android:id="@id/menu_button_stations" android:text="@string/menu_stations" app:drawableLeft_on="menu_nav_stations_on" app:drawableLeft_off="menu_nav_stations_off" style="@style/MenuButton" />
+        <View style="@style/MenuDivider" />
+        <com.citibikenyc.citibike.helpers.MenuButton android:id="@id/menu_button_timer" android:text="@string/menu_timer" app:drawableLeft_on="menu_nav_timer_on" app:drawableLeft_off="menu_nav_timer_off" style="@style/MenuButton" />
+        <View style="@style/MenuDivider" />
+        <com.citibikenyc.citibike.helpers.MenuButton android:id="@id/menu_button_favorites" android:text="@string/menu_favorites" app:drawableLeft_on="menu_nav_favorites_on" app:drawableLeft_off="menu_nav_favorites_off" style="@style/MenuButton" />
+        <View style="@style/MenuDivider" />
+        <com.citibikenyc.citibike.helpers.MenuButton android:id="@id/menu_button_contact" android:text="@string/menu_contact" app:drawableLeft_on="menu_nav_transparent_on" app:drawableLeft_off="menu_nav_transparent_off" style="@style/MenuButton" />
+        <View style="@style/MenuDivider" />
+        <com.citibikenyc.citibike.helpers.MenuButton android:id="@id/menu_button_safety" android:text="@string/menu_safety" app:drawableLeft_on="menu_nav_transparent_on" app:drawableLeft_off="menu_nav_transparent_off" style="@style/MenuButton" />
+        <View style="@style/MenuDivider" />
+        <com.citibikenyc.citibike.helpers.MenuButton android:id="@id/menu_button_settings" android:text="@string/menu_settings" app:drawableLeft_on="menu_nav_transparent_on" app:drawableLeft_off="menu_nav_transparent_off" style="@style/MenuButton" />
+        <View style="@style/MenuDivider" />
+        <com.citibikenyc.citibike.helpers.MenuButton android:id="@id/menu_button_more" android:text="@string/menu_more" app:drawableLeft_on="menu_nav_transparent_on" app:drawableLeft_off="menu_nav_transparent_off" style="@style/MenuButton" />
+        <Button android:id="@id/menu_button_layers" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    </LinearLayout>
+</ScrollView>

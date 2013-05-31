@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_google_play_services_install_title">دریافت سرویس‌های Google Play</string>
+    <string name="common_google_play_services_install_text_phone">این برنامه بدون سرویس‌های Google Play اجرا نمی‌شود، این سرویس‌ها در تلفن شما وجود ندارد.</string>
+    <string name="common_google_play_services_install_text_tablet">این برنامه بدون سرویس‌های Google Play اجرا نمی‌شود، این سرویس‌ها در رایانهٔ لوحی شما وجود ندارد.</string>
+    <string name="common_google_play_services_install_button">دریافت سرویس‌های Google Play</string>
+    <string name="common_google_play_services_enable_title">فعال کردن سرویس‌های Google Play</string>
+    <string name="common_google_play_services_enable_text">این برنامه کار نمی‌کند مگر اینکه سرویس‌های Google Play را فعال کنید.</string>
+    <string name="common_google_play_services_enable_button">فعال کردن سرویس‌های Google Play</string>
+    <string name="common_google_play_services_update_title">به‌روزرسانی سرویس‌های Google Play</string>
+    <string name="common_google_play_services_update_text">این برنامه اجرا نمی‌شود مگر اینکه سرویس‌های Google Play را به‌روز کنید.</string>
+    <string name="common_google_play_services_update_button">به‌روزرسانی</string>
+</resources>

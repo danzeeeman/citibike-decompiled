@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="fill_parent" android:layout_height="fill_parent" android:fillViewport="true"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/MoreContainer">
+        <com.citibikenyc.citibike.helpers.FontableTextView android:text="@string/safety_bike_smart_title" style="@style/MoreTitle" />
+        <LinearLayout android:orientation="vertical" android:layout_height="fill_parent" style="@style/MoreMain">
+            <com.citibikenyc.citibike.helpers.FontableTextView android:text="@string/safety_bike_smart_h1" style="@style/MoreH2" />
+            <com.citibikenyc.citibike.helpers.FontableTextView android:text="@string/safety_bike_smart_p1" style="@style/MoreP" />
+            <com.citibikenyc.citibike.helpers.RichTextView android:text="@string/safety_bike_smart_downloads" style="@style/MoreP" />
+            <com.citibikenyc.citibike.helpers.RichTextView android:text="@string/safety_bike_smart_expert" style="@style/MoreP" />
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>

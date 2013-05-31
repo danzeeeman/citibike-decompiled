@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_google_play_services_install_title">Hangi Google Play teenused</string>
+    <string name="common_google_play_services_install_text_phone">Selle rakenduse käitamiseks on vaja Google Play teenuseid, mida teie telefonis pole.</string>
+    <string name="common_google_play_services_install_text_tablet">Selle rakenduse käitamiseks on vaja Google Play teenuseid, mida teie tahvelarvutis pole.</string>
+    <string name="common_google_play_services_install_button">Hangi Google Play teenused</string>
+    <string name="common_google_play_services_enable_title">Luba Google Play teenused</string>
+    <string name="common_google_play_services_enable_text">See rakendus ei tööta, kui te ei luba Google Play teenuseid.</string>
+    <string name="common_google_play_services_enable_button">Luba Google Play teenused</string>
+    <string name="common_google_play_services_update_title">Google Play teenuste värskendamine</string>
+    <string name="common_google_play_services_update_text">Seda rakendust ei saa käitada, kui te ei värskenda Google Play teenuseid.</string>
+    <string name="common_google_play_services_update_button">Värskenda</string>
+</resources>
