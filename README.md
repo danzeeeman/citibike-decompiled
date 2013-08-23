@@ -22,7 +22,7 @@ New End-Points
 		./smali/com/citibikenyc/citibike/PlaceDataManager.smali:    const-string v3, "http://appservices.citibikenyc.com/v1/branch/list"
 
 
-Decompiled CitiBike Android App v1.0.0
+##Decompiled CitiBike Android App v1.0.0
 
 ###Steps take to produce this package:
 
