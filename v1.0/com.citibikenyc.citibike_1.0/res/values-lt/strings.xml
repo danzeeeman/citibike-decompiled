@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_google_play_services_install_title">Gauti „Google Play“ pasl.</string>
+    <string name="common_google_play_services_install_text_phone">Ši programa neveiks be „Google Play“ paslaugų, kurių nėra jūsų telefone.</string>
+    <string name="common_google_play_services_install_text_tablet">Ši programa neveiks be „Google Play“ paslaugų, kurių nėra jūsų planšetiniame kompiuteryje.</string>
+    <string name="common_google_play_services_install_button">Gauti „Google Play“ pasl.</string>
+    <string name="common_google_play_services_enable_title">Įgalinti „Google Play“ pasl.</string>
+    <string name="common_google_play_services_enable_text">Ši programa neveiks, nebent įgalinsite „Google Play“ paslaugas.</string>
+    <string name="common_google_play_services_enable_button">Įgalinti „Google Play“ pasl.</string>
+    <string name="common_google_play_services_update_title">Atnaujinti „Google Play“ pasl.</string>
+    <string name="common_google_play_services_update_text">Ši programa neveiks, nebent atnaujinsite „Google Play“ paslaugas.</string>
+    <string name="common_google_play_services_update_button">Atnaujinti</string>
+</resources>

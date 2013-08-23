@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:background="@drawable/map_overlay_tabview_details" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.citibikenyc.citibike.helpers.FontableTextView android:textSize="@dimen/scoop_details_title" android:textStyle="bold" android:textColor="#ff424242" android:id="@id/scoop_details_label" android:layout_marginTop="14.0dip" android:bufferType="spannable" android:text="@string/label" style="@style/OverlayText" />
+    <com.citibikenyc.citibike.helpers.CustomRatingBar android:gravity="center_vertical" android:layout_gravity="center_horizontal" android:orientation="horizontal" android:id="@id/scoop_details_rating" android:clickable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="10.0dip" style="@style/ScoopRatingBar" />
+    <TextView android:textSize="@dimen/scoop_details_title" android:textColor="@color/map_overlay_scoop_address1" android:id="@id/scoop_detail_type_n_price" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    <TextView android:textColor="@color/map_overlay_scoop_address2" android:id="@id/scoop_detail_address" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="10.0dip" />
+    <RelativeLayout android:id="@id/scoop_detail_review_container" android:paddingLeft="10.0dip" android:paddingRight="10.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <TextView android:textColor="@color/map_overlay_scoop_review" android:gravity="center" android:id="@id/scoop_detail_review" android:background="@drawable/review_bg" android:paddingLeft="25.0dip" android:paddingTop="5.0dip" android:paddingRight="25.0dip" android:paddingBottom="5.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_centerHorizontal="true" />
+        <TextView android:textColor="@color/map_overlay_scoop_address2" android:gravity="center" android:id="@id/scoop_detail_reviewer" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_toRightOf="@id/review_marker" android:layout_below="@id/scoop_detail_review" />
+        <ImageView android:id="@id/review_marker" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="20.0dip" android:src="@drawable/review_pointer" android:layout_below="@id/scoop_detail_review" />
+        <ImageView android:id="@id/imageView1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="5.0dip" android:src="@drawable/icon_nyt" android:layout_toRightOf="@id/scoop_detail_reviewer" android:layout_alignBottom="@id/scoop_detail_reviewer" />
+    </RelativeLayout>
+    <LinearLayout android:layout_gravity="center_horizontal" android:orientation="vertical" android:background="@drawable/map_overlay_button_panel" android:padding="6.0dip" android:layout_width="wrap_content" android:layout_height="100.0dip" android:layout_marginTop="15.0dip">
+        <Button android:id="@id/detail_route_to_here" android:layout_marginBottom="6.0dip" android:text="@string/map_overlay_directions_to_here" android:onClick="routeToMarker" style="@style/OverlayButton" />
+        <Button android:id="@id/detail_route_from_here" android:layout_marginBottom="0.0dip" android:text="@string/map_overlay_directions_from_here" android:onClick="routeFromMarker" style="@style/OverlayButton" />
+    </LinearLayout>
+    <View android:layout_marginTop="20.0dip" style="@style/DottedDividerHorizontal" />
+    <LinearLayout android:gravity="center" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <View android:id="@id/space1" android:clickable="true" android:layout_width="0.0dip" android:layout_height="1.0dip" android:layout_weight="1.0" android:onClick="callLocation" />
+        <ImageView android:id="@id/iv1" android:clickable="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/icon_call" android:onClick="callLocation" android:contentDescription="@string/app_name" />
+        <Button android:textColor="@color/call_text_selector" android:gravity="center_vertical" android:id="@id/button_call_place" android:text="@string/map_overlay_call" android:onClick="callLocation" style="@style/OverlayScoopDotButton" />
+        <View style="@style/DottedDividerVertical" />
+        <Button android:id="@id/button_favorite" android:text="@string/map_overlay_favorite" android:drawableLeft="@drawable/icon_favorite" android:drawablePadding="12.0dip" android:onClick="favoriteLocation" style="@style/OverlayScoopDotButton" />
+        <View style="@style/DottedDividerVertical" />
+        <View android:id="@id/space3" android:clickable="true" android:layout_width="0.0dip" android:layout_height="1.0dip" android:layout_weight="1.0" android:onClick="shareLocation" />
+        <ImageView android:id="@id/iv3" android:clickable="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/icon_share" android:onClick="shareLocation" android:contentDescription="@string/app_name" />
+        <Button android:id="@id/button_share_place" android:text="@string/map_overlay_share" android:onClick="shareLocation" style="@style/OverlayScoopDotButton" />
+    </LinearLayout>
+    <View android:layout_marginBottom="0.0dip" style="@style/DottedDividerHorizontal" />
+    <include android:clickable="true" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_margin="8.0dip" android:onClick="openPlayStore" layout="@layout/scoop_nyt_app" />
+</LinearLayout>

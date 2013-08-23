@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_google_play_services_install_title">Nainstalovat služby Google Play</string>
+    <string name="common_google_play_services_install_text_phone">Ke spuštění této aplikace jsou potřeba služby Google Play, které v telefonu nemáte.</string>
+    <string name="common_google_play_services_install_text_tablet">Ke spuštění této aplikace jsou potřeba služby Google Play, které v tabletu nemáte.</string>
+    <string name="common_google_play_services_install_button">Nainstalovat služby Google Play</string>
+    <string name="common_google_play_services_enable_title">Aktivovat služby Google Play</string>
+    <string name="common_google_play_services_enable_text">Ke spuštění této aplikace je třeba aktivovat služby Google Play.</string>
+    <string name="common_google_play_services_enable_button">Aktivovat služby Google Play</string>
+    <string name="common_google_play_services_update_title">Aktualizovat služby Google Play</string>
+    <string name="common_google_play_services_update_text">Ke spuštění této aplikace je třeba aktualizovat služby Google Play.</string>
+    <string name="common_google_play_services_update_button">Aktualizovat</string>
+</resources>

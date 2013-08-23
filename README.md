@@ -1,7 +1,31 @@
 citibike-decompiled
 ===================
 
-Decompiled CitiBike Android App 
+Updated with v1.1.0
+
+
+New End-Points
+
+./smali/com/citibikenyc/citibike/PlaceDataManager.smali:.field public static final ALTA_STATION_UPDATE_URL:Ljava/lang/String; = "http://appservices.citibikenyc.com/data2/stations.php?updateOnly=true"
+./smali/com/citibikenyc/citibike/PlaceDataManager.smali:.field public static final ALTA_STATION_URL:Ljava/lang/String; = "http://appservices.citibikenyc.com/data2/stations.php"
+./smali/com/citibikenyc/citibike/PlaceDataManager.smali:.field public static final BRANCH_URL:Ljava/lang/String; = "http://appservices.citibikenyc.com/v1/branch/list"
+./smali/com/citibikenyc/citibike/PlaceDataManager.smali:.field public static final CONTENT_URL:Ljava/lang/String; = "http://appservices.citibikenyc.com/v1/content/list"
+./smali/com/citibikenyc/citibike/PlaceDataManager.smali:.field public static final HELMET_URL:Ljava/lang/String; = "http://appservices.citibikenyc.com/v1/helmet/list"
+./smali/com/citibikenyc/citibike/PlaceDataManager.smali:.field public static final SCOOP_URL:Ljava/lang/String; = "http://appservices.citibikenyc.com/data2/poi.json"
+./smali/com/citibikenyc/citibike/PlaceDataManager.smali:.field public static final TEST_STATION_UPDATE_URL:Ljava/lang/String; = "http://appservices.citibikenyc.com/v1/station/updates"
+./smali/com/citibikenyc/citibike/PlaceDataManager.smali:.field public static final TEST_STATION_URL:Ljava/lang/String; = "http://appservices.citibikenyc.com/v1/station/list"
+./smali/com/citibikenyc/citibike/PlaceDataManager.smali:    const-string v1, "http://appservices.citibikenyc.com/data2/poi.json"
+./smali/com/citibikenyc/citibike/PlaceDataManager.smali:    const-string v1, "http://appservices.citibikenyc.com/v1/content/list"
+./smali/com/citibikenyc/citibike/PlaceDataManager.smali:    const-string v1, "http://appservices.citibikenyc.com/data2/stations.php"
+./smali/com/citibikenyc/citibike/PlaceDataManager.smali:    const-string v1, "http://appservices.citibikenyc.com/data2/stations.php?updateOnly=true"
+./smali/com/citibikenyc/citibike/PlaceDataManager.smali:    const-string v3, "http://appservices.citibikenyc.com/v1/helmet/list"
+./smali/com/citibikenyc/citibike/PlaceDataManager.smali:    const-string v3, "http://appservices.citibikenyc.com/v1/branch/list"
+
+
+
+
+
+Decompiled CitiBike Android App v1.0.0
 
 ###Steps take to produce this package:
 

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_google_play_services_install_title">Thola amasevisi e-Google Play</string>
+    <string name="common_google_play_services_install_text_phone">Lolu hlelo lokusebenza ngeke lusebenze ngaphandle kwamasevisi e-Google Play, angekho efonini yakho.</string>
+    <string name="common_google_play_services_install_text_tablet">Lolu hlelo lokusebenza ngeke lusebenze ngaphandle kwamasevisi e-Google Play, angekho kuthebhulethi yakho.</string>
+    <string name="common_google_play_services_install_button">Thola amasevisi e-Google Play</string>
+    <string name="common_google_play_services_enable_title">Nika amandla amasevisi e-Google Play</string>
+    <string name="common_google_play_services_enable_text">Lolu hlelo lokusebenza ngeke lisebenze ngaphandle nje kokuthi unike amandla amasevisi e-Google Play.</string>
+    <string name="common_google_play_services_enable_button">Nika amandla amasevisi e-Google Play</string>
+    <string name="common_google_play_services_update_title">Buyekeza amasevisi e-Google Play</string>
+    <string name="common_google_play_services_update_text">Lolu hlelo lokusebenza ngeke lusebenze ngaphandle nje kokuthi ubuyekeze amasevisi e-Google Play.</string>
+    <string name="common_google_play_services_update_button">Buyekeza</string>
+</resources>

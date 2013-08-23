@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_google_play_services_install_title">获取 Google Play 服务</string>
+    <string name="common_google_play_services_install_text_phone">您的手机中没有 Google Play 服务，您必须先安装该服务才能运行此应用。</string>
+    <string name="common_google_play_services_install_text_tablet">您的平板电脑中没有 Google Play 服务，您必须先安装该服务才能运行此应用。</string>
+    <string name="common_google_play_services_install_button">获取 Google Play 服务</string>
+    <string name="common_google_play_services_enable_title">启用 Google Play 服务</string>
+    <string name="common_google_play_services_enable_text">您必须先启用 Google Play 服务才能运行此应用。</string>
+    <string name="common_google_play_services_enable_button">启用 Google Play 服务</string>
+    <string name="common_google_play_services_update_title">更新 Google Play 服务</string>
+    <string name="common_google_play_services_update_text">您必须先更新 Google Play 服务才能运行此应用。</string>
+    <string name="common_google_play_services_update_button">更新</string>
+</resources>

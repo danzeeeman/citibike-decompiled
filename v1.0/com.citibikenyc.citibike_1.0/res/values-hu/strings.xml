@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_google_play_services_install_title">Google Play Szolgáltatások telepítése</string>
+    <string name="common_google_play_services_install_text_phone">Az alkalmazás működéséhez a Google Play Szolgáltatások szükségesek, ezek nincsenek telepítve a telefonon.</string>
+    <string name="common_google_play_services_install_text_tablet">Az alkalmazás működéséhez a Google Play Szolgáltatások szükségesek, ezek nincsenek telepítve a táblagépen.</string>
+    <string name="common_google_play_services_install_button">Play Szolgáltatások telepítése</string>
+    <string name="common_google_play_services_enable_title">Google Play Szolgáltatások engedélyezése</string>
+    <string name="common_google_play_services_enable_text">Az alkalmazás csak akkor fog működni, ha engedélyezi a Google Play Szolgáltatásokat.</string>
+    <string name="common_google_play_services_enable_button">Play Szolgáltatások enged.</string>
+    <string name="common_google_play_services_update_title">Google Play Szolgáltatások frissítése</string>
+    <string name="common_google_play_services_update_text">Az alkalmazás csak akkor fog működni, ha frissíti a Google Play Szolgáltatásokat.</string>
+    <string name="common_google_play_services_update_button">Frissítés</string>
+</resources>

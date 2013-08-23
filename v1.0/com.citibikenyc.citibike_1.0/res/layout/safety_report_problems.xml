@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="fill_parent" android:layout_height="fill_parent" android:fillViewport="true"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/MoreContainer">
+        <com.citibikenyc.citibike.helpers.FontableTextView android:text="@string/safety_report_problem_title" style="@style/MoreTitle" />
+        <LinearLayout android:layout_height="fill_parent" style="@style/MoreMain">
+            <com.citibikenyc.citibike.helpers.RichTextView android:text="@string/safety_report_problem_p1" style="@style/MoreP" />
+            <com.citibikenyc.citibike.helpers.FontableTextView android:text="@string/safety_report_problem_p2" style="@style/MoreP" />
+            <com.citibikenyc.citibike.helpers.RichTextView android:text="@string/safety_report_problem_p3" style="@style/MorePlast" />
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>

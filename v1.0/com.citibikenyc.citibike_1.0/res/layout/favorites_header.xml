@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:padding="0.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_margin="0.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <View android:background="#ffbcbcbc" android:layout_width="fill_parent" android:layout_height="1.0dip" />
+    <TabHost android:id="@*android:id/tabhost" android:padding="0.0dip" android:scrollbars="none" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_margin="0.0dip">
+        <LinearLayout android:orientation="vertical" android:background="@drawable/tab_bg" android:padding="0.0dip" android:clickable="true" android:layout_width="fill_parent" android:layout_height="50.0dip" android:layout_margin="0.0dip">
+            <TabWidget android:id="@*android:id/tabs" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginLeft="10.0dip" android:layout_marginRight="10.0dip" android:layout_marginBottom="2.0dip" android:tabStripEnabled="false" />
+            <FrameLayout android:id="@*android:id/tabcontent" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_margin="0.0dip">
+                <LinearLayout android:id="@id/favorite_All" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+                <LinearLayout android:id="@id/favorite_Stations" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+                <LinearLayout android:id="@id/favorite_Places" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+            </FrameLayout>
+        </LinearLayout>
+    </TabHost>
+    <com.citibikenyc.citibike.helpers.FontableTextView android:textSize="18.0sp" android:textColor="#ff747474" android:id="@id/favorite_header" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="25.0dip" android:layout_marginTop="15.0dip" android:layout_marginBottom="16.0dip" android:text="@string/favorites_all_header" />
+</LinearLayout>

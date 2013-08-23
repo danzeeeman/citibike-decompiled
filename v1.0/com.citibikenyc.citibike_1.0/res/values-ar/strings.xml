@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_google_play_services_install_title">الحصول على خدمات Google Play</string>
+    <string name="common_google_play_services_install_text_phone">لن يتم تشغيل هذا التطبيق بدون خدمات Google Play، والتي لا تتوفر في هاتفك.</string>
+    <string name="common_google_play_services_install_text_tablet">لن يتم تشغيل هذا التطبيق بدون خدمات Google Play، والتي لا تتوفر في جهازك اللوحي.</string>
+    <string name="common_google_play_services_install_button">الحصول على خدمات Google Play</string>
+    <string name="common_google_play_services_enable_title">تمكين خدمات Google Play</string>
+    <string name="common_google_play_services_enable_text">لن يعمل هذا التطبيق ما لم يتم تمكين خدمات Google Play.</string>
+    <string name="common_google_play_services_enable_button">تمكين خدمات Google Play</string>
+    <string name="common_google_play_services_update_title">تحديث خدمات Google Play</string>
+    <string name="common_google_play_services_update_text">لن يتم تشغيل هذا التطبيق ما لم تحدِّث خدمات Google Play.</string>
+    <string name="common_google_play_services_update_button">تحديث</string>
+</resources>

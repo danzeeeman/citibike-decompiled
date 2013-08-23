@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_google_play_services_install_title">Dapatkan layanan Google Play</string>
+    <string name="common_google_play_services_install_text_phone">Aplikasi ini tidak akan berjalan tanpa layanan Google Play, yang tidak ada di ponsel Anda.</string>
+    <string name="common_google_play_services_install_text_tablet">Aplikasi ini tidak akan berjalan tanpa layanan Google Play, yang tidak ada di tablet Anda.</string>
+    <string name="common_google_play_services_install_button">Dapatkan layanan Google Play</string>
+    <string name="common_google_play_services_enable_title">Aktifkan layanan Google Play</string>
+    <string name="common_google_play_services_enable_text">Aplikasi ini tidak akan bekerja sampai Anda mengaktifkan layanan Google Play.</string>
+    <string name="common_google_play_services_enable_button">Aktifkan layanan Google Play</string>
+    <string name="common_google_play_services_update_title">Perbarui layanan Google Play</string>
+    <string name="common_google_play_services_update_text">Aplikasi ini tidak akan berjalan sampai Anda memperbarui layanan Google Play.</string>
+    <string name="common_google_play_services_update_button">Perbarui</string>
+</resources>

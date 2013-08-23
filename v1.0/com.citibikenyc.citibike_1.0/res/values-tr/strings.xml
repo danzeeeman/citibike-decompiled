@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_google_play_services_install_title">"Google Play Hizmetleri'ni edin"</string>
+    <string name="common_google_play_services_install_text_phone">Google Play Hizmetleri telefonunuzda yok ve bu uygulama Google Play Hizmetleri olmadan çalışmaz.</string>
+    <string name="common_google_play_services_install_text_tablet">Google Play Hizmetleri tabletinizde yok ve bu uygulama Google Play Hizmetleri olmadan çalışmaz.</string>
+    <string name="common_google_play_services_install_button">"Google Play Hizmetleri'ni edin"</string>
+    <string name="common_google_play_services_enable_title">"Google Play Hizmetleri'ni etkinleştir"</string>
+    <string name="common_google_play_services_enable_text">Bu uygulama, Google Play Hizmetleri etkinleştirilmeden çalışmaz</string>
+    <string name="common_google_play_services_enable_button">"Google Play Hizmetleri'ni etkinleştir"</string>
+    <string name="common_google_play_services_update_title">"Google Play Hizmetleri'ni Güncelle"</string>
+    <string name="common_google_play_services_update_text">Bu uygulama Google Play Hizmetleri güncellenmeden çalışmaz.</string>
+    <string name="common_google_play_services_update_button">Güncelle</string>
+</resources>

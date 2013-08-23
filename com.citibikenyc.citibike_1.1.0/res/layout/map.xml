@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<fragment android:id="@id/map" android:layout_width="fill_parent" android:layout_height="fill_parent" map:mapType="normal" map:cameraTargetLat="@string/nyc_union_square_lat" map:cameraTargetLng="@string/nyc_union_square_long" map:cameraZoom="14.0" map:uiCompass="false" map:uiRotateGestures="true" map:uiScrollGestures="true" map:uiTiltGestures="true" map:uiZoomControls="false" map:uiZoomGestures="true" class="com.google.android.gms.maps.SupportMapFragment"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:map="http://schemas.android.com/apk/res-auto" />

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_google_play_services_install_title">Kry Google Play-dienste</string>
+    <string name="common_google_play_services_install_text_phone">Hierdie program sal nie sonder Google Play-dienste, wat nie op jou foon is nie, werk nie.</string>
+    <string name="common_google_play_services_install_text_tablet">Hierdie program sal nie sonder Google Play-dienste, wat nie op jou tablet is nie, werk nie.</string>
+    <string name="common_google_play_services_install_button">Kry Google Play-dienste</string>
+    <string name="common_google_play_services_enable_title">Aktiveer Google Play-dienste</string>
+    <string name="common_google_play_services_enable_text">Hierdie program sal nie werk nie tensy jy Google Play-dienste aktiveer.</string>
+    <string name="common_google_play_services_enable_button">Aktiveer Google Play-dienste</string>
+    <string name="common_google_play_services_update_title">Dateer Google Play-dienste op</string>
+    <string name="common_google_play_services_update_text">Hierdie program sal nie werk nie, tensy jy Google Play-dienste opdateer.</string>
+    <string name="common_google_play_services_update_button">Dateer op</string>
+</resources>

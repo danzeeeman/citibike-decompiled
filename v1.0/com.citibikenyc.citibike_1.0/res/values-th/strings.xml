@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_google_play_services_install_title">รับบริการ Google Play</string>
+    <string name="common_google_play_services_install_text_phone">แอปพลิเคชันนี้จะไม่ทำงานหากไม่มีบริการ Google Play ซึ่งไม่มีในโทรศัพท์ของคุณ</string>
+    <string name="common_google_play_services_install_text_tablet">แอปพลิเคชันนี้จะไม่ทำงานหากไม่มีบริการ Google Play ซึ่งไม่มีในแท็บเล็ตของคุณ</string>
+    <string name="common_google_play_services_install_button">รับบริการ Google Play</string>
+    <string name="common_google_play_services_enable_title">เปิดใช้งานบริการ Google Play</string>
+    <string name="common_google_play_services_enable_text">แอปพลิเคชันนี้จะไม่ทำงานจนกว่าคุณจะเปิดใช้งานบริการ Google Play</string>
+    <string name="common_google_play_services_enable_button">เปิดใช้งานบริการ Google Play</string>
+    <string name="common_google_play_services_update_title">อัปเดตบริการ Google Play</string>
+    <string name="common_google_play_services_update_text">แอปพลิเคชันนี้จะไม่ทำงานจนกว่าคุณจะอัปเดตบริการ Google Play</string>
+    <string name="common_google_play_services_update_button">อัปเดต</string>
+</resources>

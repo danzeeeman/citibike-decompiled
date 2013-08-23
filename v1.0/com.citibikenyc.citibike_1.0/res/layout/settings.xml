@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:id="@id/settings" android:layout_width="fill_parent" android:layout_height="fill_parent" style="@style/MoreContainer"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.citibikenyc.citibike.helpers.FontableTextView android:text="@string/settings_title" style="@style/MoreTitle" />
+    <LinearLayout android:id="@id/settings_main" android:paddingTop="0.0dip" style="@style/MoreMain">
+        <LinearLayout style="@style/SettingsRow">
+            <com.citibikenyc.citibike.helpers.FontableTextView android:text="@string/settings_membership_label" style="@style/SettingsLabel" />
+            <Button android:id="@id/button_membership_7day" android:text="@string/settings_membership_day" style="@style/ToggleButtonLeft" />
+            <Button android:id="@id/button_membership_annual" android:text="@string/settings_membership_annual" style="@style/ToggleButtonRight" />
+        </LinearLayout>
+        <View style="@style/DividerHorizontal" />
+        <LinearLayout style="@style/SettingsRow">
+            <com.citibikenyc.citibike.helpers.FontableTextView android:text="@string/settings_distance_label" style="@style/SettingsLabel" />
+            <Button android:id="@id/button_distance_mi" android:text="@string/settings_distance_mi" style="@style/ToggleButtonLeft" />
+            <Button android:id="@id/button_distance_km" android:text="@string/settings_distance_km" style="@style/ToggleButtonRight" />
+        </LinearLayout>
+        <View style="@style/DividerHorizontal" />
+        <LinearLayout style="@style/SettingsRow">
+            <com.citibikenyc.citibike.helpers.FontableTextView android:text="@string/settings_threed_label" style="@style/SettingsLabel" />
+            <Button android:id="@id/button_threed_on" android:text="@string/settings_threed_on" style="@style/ToggleButtonLeft" />
+            <Button android:id="@id/button_threed_off" android:text="@string/settings_threed_off" style="@style/ToggleButtonRight" />
+        </LinearLayout>
+        <View style="@style/DividerHorizontal" />
+    </LinearLayout>
+</LinearLayout>

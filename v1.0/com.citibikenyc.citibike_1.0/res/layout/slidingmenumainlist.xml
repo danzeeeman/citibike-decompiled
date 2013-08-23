@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.slidingmenu.lib.SlidingMenu android:id="@id/slidingmenulayout" android:layout_width="fill_parent" android:layout_height="fill_parent" sliding:viewAbove="@layout/list"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:sliding="http://schemas.android.com/apk/res-auto" />

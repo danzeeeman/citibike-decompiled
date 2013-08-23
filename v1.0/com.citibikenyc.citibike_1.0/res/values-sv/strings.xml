@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_google_play_services_install_title">Få Google Play-tjänster</string>
+    <string name="common_google_play_services_install_text_phone">Den här appen kan inte köras utan Google Play-tjänsterna, som saknas på mobilen.</string>
+    <string name="common_google_play_services_install_text_tablet">Den här appen kan inte köras utan Google Play-tjänsterna, som saknas på pekdatorn.</string>
+    <string name="common_google_play_services_install_button">Få Google Play-tjänster</string>
+    <string name="common_google_play_services_enable_title">Aktivera Google Play-tjänster</string>
+    <string name="common_google_play_services_enable_text">Du måste aktivera Google Play-tjänsterna för att den här appen ska fungera.</string>
+    <string name="common_google_play_services_enable_button">Aktivera Google Play-tjänster</string>
+    <string name="common_google_play_services_update_title">Uppdatera Google Play-tjänster</string>
+    <string name="common_google_play_services_update_text">Du måste uppdatera Google Play-tjänsterna innan du kan köra den här appen.</string>
+    <string name="common_google_play_services_update_button">Uppdatera</string>
+</resources>

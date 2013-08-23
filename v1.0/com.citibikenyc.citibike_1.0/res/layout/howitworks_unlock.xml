@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/MoreContainer">
+        <com.citibikenyc.citibike.helpers.FontableTextView android:text="@string/how_unlock_title" style="@style/MoreTitle" />
+        <LinearLayout style="@style/MoreMain">
+            <com.citibikenyc.citibike.helpers.FontableTextView android:text="@string/how_unlock_h1" style="@style/MoreH1" />
+            <View style="@style/MoreDivider" />
+            <com.citibikenyc.citibike.helpers.FontableTextView android:text="@string/how_unlock_h2" style="@style/MoreH4" />
+            <View style="@style/MoreDivider" />
+            <com.citibikenyc.citibike.helpers.FontableTextView android:text="@string/how_unlock_h3" style="@style/MoreH2" />
+            <com.citibikenyc.citibike.helpers.FontableTextView android:text="@string/how_unlock_p1" style="@style/MoreP" />
+            <com.citibikenyc.citibike.helpers.FontableTextView android:text="@string/how_unlock_h4" style="@style/MoreH2" />
+            <com.citibikenyc.citibike.helpers.FontableTextView android:text="@string/how_unlock_p2" style="@style/MoreP" />
+            <com.citibikenyc.citibike.helpers.FontableTextView android:text="@string/how_unlock_h5" style="@style/MoreH2" />
+            <com.citibikenyc.citibike.helpers.FontableTextView android:text="@string/how_unlock_p3" style="@style/MorePlast" />
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>

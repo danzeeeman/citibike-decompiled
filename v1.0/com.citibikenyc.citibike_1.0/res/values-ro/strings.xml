@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_google_play_services_install_title">Obţineţi Servicii Google Play</string>
+    <string name="common_google_play_services_install_text_phone">Această aplicaţie nu va rula fără Servicii Google Play, care lipsesc de pe telefon.</string>
+    <string name="common_google_play_services_install_text_tablet">Această aplicaţie nu va rula fără Servicii Google Play, care lipsesc de pe tabletă.</string>
+    <string name="common_google_play_services_install_button">Obţineţi Servicii Google Play</string>
+    <string name="common_google_play_services_enable_title">Activaţi Servicii Google Play</string>
+    <string name="common_google_play_services_enable_text">Această aplicaţie nu va funcţiona decât dacă activaţi Servicii Google Play.</string>
+    <string name="common_google_play_services_enable_button">Activaţi Servicii Google Play</string>
+    <string name="common_google_play_services_update_title">Actualizaţi Servicii Google Play</string>
+    <string name="common_google_play_services_update_text">Această aplicaţie nu va rula decât dacă actualizaţi Servicii Google Play.</string>
+    <string name="common_google_play_services_update_button">Actualizaţi</string>
+</resources>

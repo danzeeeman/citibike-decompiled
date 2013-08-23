@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:id="@id/activity_main" android:background="#ffc6d4d4" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="right" android:id="@id/map_buttons_layout" android:padding="12.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <ImageButton android:id="@id/map_button_layers" android:background="@null" android:padding="0.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/map_button_layers" android:onClick="showLayers" android:contentDescription="@string/main_map_buttons_layers_desc" />
+        <ImageButton android:id="@id/map_button_currentlocation" android:background="@null" android:padding="0.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/map_button_currentlocation_right" android:onClick="moveToCurrentLocation" android:contentDescription="@string/main_map_buttons_current_location_desc" />
+        <ImageButton android:id="@id/map_button_clear" android:background="@null" android:padding="0.0dip" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/map_button_delete" android:onClick="clearRoute" android:contentDescription="@string/main_map_buttons_clear_desc" />
+    </LinearLayout>
+    <ScrollView android:id="@id/map_place_details" android:scrollY="0.0px" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <include android:id="@id/map_overlay" android:layout_width="fill_parent" android:layout_height="wrap_content" layout="@layout/map_place_overlay" />
+    </ScrollView>
+    <include android:visibility="gone" layout="@layout/map_routebar" />
+    <include android:visibility="gone" layout="@layout/map_route" />
+    <RelativeLayout android:id="@id/activity_main_container" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <ListView android:layout_gravity="right" android:id="@id/searchResultsView" android:visibility="invisible" android:layout_width="281.0dip" android:layout_height="wrap_content" android:layout_marginTop="2.0dip" android:layout_marginRight="20.0dip" android:layout_marginBottom="0.0dip" android:divider="#ffdadada" android:dividerHeight="1.0dip" />
+    <LinearLayout android:gravity="center" android:orientation="horizontal" android:id="@id/loader" android:visibility="gone" android:clickable="true" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <LinearLayout android:gravity="center" android:orientation="vertical" android:background="@drawable/loader_bg" android:padding="0.0dip" android:clickable="true" android:layout_width="156.0dip" android:layout_height="140.0dip" android:layout_marginBottom="64.0dip">
+            <ImageView android:id="@id/loaderIcon" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="15.0dip" android:src="@drawable/icon_toast_calculating" android:contentDescription="@string/toast_icon_desc" />
+            <LinearLayout android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content">
+                <com.citibikenyc.citibike.helpers.FontableTextView android:textSize="20.0sp" android:textColor="#ffffffff" android:id="@id/loadingText" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/calculating" />
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+</FrameLayout>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:id="@id/layers" android:clickable="true" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0" style="@style/MoreContainer">
+        <com.citibikenyc.citibike.helpers.FontableTextView android:text="@string/layers_title" style="@style/MoreTitle" />
+        <LinearLayout android:orientation="vertical" android:id="@id/layers_main" android:paddingTop="1.0dip" android:layout_width="fill_parent" android:layout_height="fill_parent" style="@style/MoreMain">
+            <Button android:id="@id/layer_citi_bike_lanes" android:text="@string/layers_bike_lanes_btn" style="@style/LayerButton" />
+            <Button android:id="@id/layer_citi_branches" android:text="@string/layers_citi_branches_btn" style="@style/LayerButton" />
+            <Button android:id="@id/layer_bike_helmets" android:text="@string/layers_bike_helmets_btn" style="@style/LayerButton" />
+            <Button android:id="@id/layer_restaurants" android:text="@string/layers_restaurants_btn" style="@style/LayerButton" />
+            <Button android:id="@id/layer_coffee" android:text="@string/layers_coffee_btn" style="@style/LayerButton" />
+        </LinearLayout>
+    </LinearLayout>
+    <LinearLayout android:background="@drawable/button_container_bg" android:padding="5.0dip" android:clickable="true" android:layout_width="fill_parent" android:layout_height="52.0dip">
+        <Button android:id="@id/layers_done" android:clickable="true" android:text="@string/layers_done_btn" android:onClick="closeLayers" style="@style/DoneButton" />
+    </LinearLayout>
+</LinearLayout>

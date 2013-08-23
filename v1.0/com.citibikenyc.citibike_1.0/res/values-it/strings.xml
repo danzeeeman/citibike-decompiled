@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_google_play_services_install_title">Installazione Google Play Services</string>
+    <string name="common_google_play_services_install_text_phone">"L'applicazione non funzionerà senza Google Play Services, non presente sul tuo telefono."</string>
+    <string name="common_google_play_services_install_text_tablet">"L'applicazione non funzionerà senza Google Play Services, non presente sul tuo tablet."</string>
+    <string name="common_google_play_services_install_button">Scarica Google Play Services</string>
+    <string name="common_google_play_services_enable_title">Attivazione Google Play Services</string>
+    <string name="common_google_play_services_enable_text">"L'applicazione non funzionerà se non attivi Google Play Services."</string>
+    <string name="common_google_play_services_enable_button">Attiva Google Play Services</string>
+    <string name="common_google_play_services_update_title">Aggiornamento Google Play Services</string>
+    <string name="common_google_play_services_update_text">"L'applicazione non funzionerà se non aggiorni Google Play Services."</string>
+    <string name="common_google_play_services_update_button">Aggiorna</string>
+</resources>

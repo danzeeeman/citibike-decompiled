@@ -1,6 +1,6 @@
 Signature-Version: 1.0
 Created-By: 1.0 (Android)
-SHA1-Digest-Manifest: AFWHq/39WZsNkHlW/LnVOUejVgs=
+SHA1-Digest-Manifest: GTzrQc3lNwL9YKN3Lb4ntBviX54=
 
 Name: res/drawable-xhdpi/abs__spinner_ab_pressed_holo_light.9.png
 SHA1-Digest: FzjmKCcidOTQaeqKDaRoIPDLRFs=
@@ -18,10 +18,13 @@ Name: res/drawable-hdpi/tab_bg.9.png
 SHA1-Digest: dIP2fDfnCcw67BCk8jbkDuya1f0=
 
 Name: res/layout/more_header.xml
-SHA1-Digest: avvJkkcy6716fOXco7MZWcDqGvE=
+SHA1-Digest: /o+J+Vw9QOzZL9KkhEF8hxZK0FM=
 
 Name: res/drawable-mdpi/abs__spinner_48_inner_holo.png
 SHA1-Digest: 2lkUs3xv5PleZLwoEPtjpQImnpc=
+
+Name: res/drawable-xhdpi/fueled_logo.png
+SHA1-Digest: hKtVcjnCHJIkKbQmQhrpJyALoNI=
 
 Name: res/drawable-hdpi/icon_lg_pin_station_0_start.png
 SHA1-Digest: yFVkZ6Hn4lwQVnOQDb8QdZYfrPE=
@@ -48,7 +51,7 @@ Name: res/drawable-xhdpi/abs__btn_cab_done_pressed_holo_light.9.png
 SHA1-Digest: JpDU0Y1y6F6Ao4HGBg4ANZRivB0=
 
 Name: res/layout/stations_header.xml
-SHA1-Digest: A+/XZiijOvoQwdgxXsPrq9ppAL0=
+SHA1-Digest: nxramEedqcWq0VIuqLjF1+UPOt4=
 
 Name: assets/fonts/Roboto-Medium.ttf
 SHA1-Digest: Hxjjo092TqdosnoiLLzLfU+B7v4=
@@ -59,8 +62,14 @@ SHA1-Digest: 7T/MrqEs+x64hWw9e32OhoqUl00=
 Name: res/drawable-xhdpi/map_overlay_button_pressed.9.png
 SHA1-Digest: mk88e6y3ocW33u8nWiS6oTz26NY=
 
+Name: res/layout/scoop_details.xml
+SHA1-Digest: h2XGA486FvOde0DXJemagkTTibk=
+
 Name: res/drawable-hdpi/abs__progress_secondary_holo_light.9.png
 SHA1-Digest: NclG74rMN1B0DgLYETLDBkWMcNc=
+
+Name: res/layout/location_details.xml
+SHA1-Digest: +nXAfAAysQ4LIYoy7udDdW3IOfk=
 
 Name: res/drawable/abs__textfield_searchview_right_holo_light.xml
 SHA1-Digest: OqWAhYk3zjnOONkZsAVwnR3cbM8=
@@ -69,7 +78,7 @@ Name: res/drawable-mdpi/abs__ic_go.png
 SHA1-Digest: gCn3z+l3jF6XzbJ1zu/I/cfOhic=
 
 Name: res/layout/search_results_row.xml
-SHA1-Digest: Kq/zIMJ7ZNp/gq2yX2TsZ/fYv7k=
+SHA1-Digest: 6W19yeS7YAAFNyRA2kjk0rn4UOk=
 
 Name: res/drawable-xhdpi/icons_turnbyturn_straightdown.png
 SHA1-Digest: ahoyKUhVD3tyEr6D6OEXgtBoL/w=
@@ -81,7 +90,7 @@ Name: res/drawable-xhdpi/abs__cab_background_top_holo_dark.9.png
 SHA1-Digest: 0ea3duNXY0J43pi4kHjogRXDHVY=
 
 Name: res/layout/more_item_row.xml
-SHA1-Digest: 5LLksO+Ps3+IBtb1d3ZvNvUpXHw=
+SHA1-Digest: 3HE2qmiyorfQ2PKnSJU413hT7fM=
 
 Name: res/drawable-xhdpi/icon_md_pin_station_25_start.png
 SHA1-Digest: QzAdRtmKVmlocBnXfjyQT4BQVbQ=
@@ -99,7 +108,7 @@ Name: res/drawable-xhdpi/menu_nav_map_on.png
 SHA1-Digest: fe03ZhtPvEVFk/d+39yMrt3QFGE=
 
 Name: res/layout/pricing_annual.xml
-SHA1-Digest: tpM40elJmmN2wgAWT8TyfpOkqms=
+SHA1-Digest: zUZbiWeUSAlD9kM2/L2A+vRN+5U=
 
 Name: res/drawable-mdpi/abs__dialog_full_holo_dark.9.png
 SHA1-Digest: 5kMok0yjau7mHw4vozq79vClj1g=
@@ -144,20 +153,20 @@ Name: res/drawable-mdpi/abs__ic_menu_moreoverflow_normal_holo_light.pn
  g
 SHA1-Digest: yPHc7/KHpzaIcFjCxRfeX35ctJM=
 
-Name: res/drawable-hdpi/icon_lg_pin_station_50_start.png
-SHA1-Digest: AWa6hGFCLZ7rMRSL5NyHKpfGKVU=
-
 Name: res/drawable/more_main_bg.xml
 SHA1-Digest: lyjMyrXLA1Hji/GgsK5PoXs2dxw=
+
+Name: res/drawable-hdpi/icon_lg_pin_station_50_start.png
+SHA1-Digest: AWa6hGFCLZ7rMRSL5NyHKpfGKVU=
 
 Name: res/drawable-xhdpi/map_overlay_dots_hdivider.png
 SHA1-Digest: dZ+/MysIrQOcXlnFJCV9l8Akjcc=
 
 Name: res/layout/safety_follow_the_rules.xml
-SHA1-Digest: C66rNDFAonk0SvQQFdFSFWj3q1g=
+SHA1-Digest: hIs9qSv93gmwTcmErGDU2+kA19Y=
 
 Name: res/menu-v14/activity_main_container.xml
-SHA1-Digest: EN1yvUDzxbfv8mmTg5T3nUagaY0=
+SHA1-Digest: qV+VfWa4dYinpFu+Bj7LYFMgieE=
 
 Name: res/drawable-hdpi/abs__list_selector_disabled_holo_dark.9.png
 SHA1-Digest: PSYxMX7M0Pyv7qDHlCHIX8N0vBM=
@@ -184,7 +193,7 @@ Name: res/drawable-xhdpi/icon_lg_pin_citibranch.png
 SHA1-Digest: j+PLmtdBWUKvhLO6ZMptZp/ZGJM=
 
 Name: res/layout/slidingmenumainlist.xml
-SHA1-Digest: hsIWghT+vGw5xjWhCd6pEHLHV9k=
+SHA1-Digest: sfvg/H+4TwLNmMz61Tc46X8h3h4=
 
 Name: res/drawable-xhdpi/map_button_delete.png
 SHA1-Digest: tDSHXUrqieYoO8jlDSTtOOHLFL8=
@@ -249,7 +258,7 @@ Name: res/drawable-hdpi/abs__cab_background_bottom_holo_dark.9.png
 SHA1-Digest: aXnONgY9LnlqGryUeUqgo7LOSQk=
 
 Name: res/layout/map_routebar.xml
-SHA1-Digest: GnQTCYtc6p3dJFUJKSvYMWDPzF8=
+SHA1-Digest: L1ZfLZC2e4nvf/Frg8EXEd00tbA=
 
 Name: res/drawable-hdpi/icon_md_pin_station_25_stop.png
 SHA1-Digest: cMxZBQ9BN6PX91IydAOrh0mcBfo=
@@ -266,11 +275,11 @@ SHA1-Digest: 8gba7SAGDOwI4ulV36xmwI6wC4k=
 Name: res/drawable-hdpi/icon_lg_pin_generic_start.png
 SHA1-Digest: RjEx8KsxA6MMm5dt+4D/9Kj6dZY=
 
-Name: res/drawable-hdpi/abs__ic_ab_back_holo_light.png
-SHA1-Digest: CixL+v/te56l/tUQbDjX61YPV00=
-
 Name: assets/faq.json
 SHA1-Digest: C6BvNDATTpV3FWRdi0WfvhL7KUo=
+
+Name: res/drawable-hdpi/abs__ic_ab_back_holo_light.png
+SHA1-Digest: CixL+v/te56l/tUQbDjX61YPV00=
 
 Name: res/drawable/abs__search_dropdown_dark.xml
 SHA1-Digest: NXhpyrdvsxnjMhZNexYVfesmAB8=
@@ -281,17 +290,20 @@ SHA1-Digest: pdDmHBXa98nEr/3He9uEXSLFC1o=
 Name: res/drawable-hdpi/abs__textfield_search_selected_holo_dark.9.png
 SHA1-Digest: WBB4+CBudWVmh0lMMVXiNP0JDrU=
 
+Name: res/drawable-xhdpi/icon_google_play.png
+SHA1-Digest: 9AwmsayqpyuuBmkbH24SobpSq/0=
+
 Name: res/drawable/defaultshadowright.xml
 SHA1-Digest: g5Q49r++omirKhz4PcBbxFmbKKE=
 
 Name: res/drawable-xhdpi/menu_nav_map_off.png
 SHA1-Digest: fRuVQqSsXFSVYIOtDWJ2nlXVN+U=
 
-Name: res/drawable-hdpi/abs__btn_cab_done_pressed_holo_light.9.png
-SHA1-Digest: v8ypJ5NNRgssVGwciTAxLfTJimk=
-
 Name: res/drawable-hdpi/menu_nav_timer_off.png
 SHA1-Digest: YDe4Os5UKemV7YtluGP5u+SEDB4=
+
+Name: res/drawable-hdpi/abs__btn_cab_done_pressed_holo_light.9.png
+SHA1-Digest: v8ypJ5NNRgssVGwciTAxLfTJimk=
 
 Name: res/drawable-xhdpi/timer_button_start_default.9.png
 SHA1-Digest: gl0+Yw+ZNv2g/Jdv4jSfERKQGzk=
@@ -315,6 +327,9 @@ SHA1-Digest: eoSTS6o7jIOoCZYC4hEns5YgXvM=
 Name: res/drawable-hdpi/icon_lg_pin_generic_stop.png
 SHA1-Digest: 44mJAaUEqEy2jr5UVYDcxTYdNSc=
 
+Name: res/drawable-xhdpi/icon_star_white.png
+SHA1-Digest: 05bX8hgZyGcW9QHAWD66aMt2uM4=
+
 Name: res/drawable-hdpi/abs__ab_bottom_transparent_dark_holo.9.png
 SHA1-Digest: u1TLIRZlHuDUKJg9Zfw4ABuD/9E=
 
@@ -334,11 +349,17 @@ SHA1-Digest: GhQbM+8Ukh3BLLQwZi6jG85zRKA=
 Name: res/drawable/timer_divider.xml
 SHA1-Digest: sMGYUQiuL93dmm2Y7aWW+llNOHo=
 
+Name: res/drawable-hdpi/icon_md_pin_coffee.png
+SHA1-Digest: oSncT7KvQGycEvuERdNMDlKPa+o=
+
 Name: res/drawable-xhdpi/abs__ab_transparent_dark_holo.9.png
 SHA1-Digest: XN1wN3B3LnBy9vHRHQkwjgn+eYc=
 
 Name: res/layout/more_footer.xml
-SHA1-Digest: R5yJ348KpdlApGFRKTwWjw5ArJU=
+SHA1-Digest: SSMah7CYSbzppUQGRilv8Sc35dA=
+
+Name: res/drawable-xhdpi/scoop_review_bg.9.png
+SHA1-Digest: DGygZESz7zztWXf6nRKbP0ovCSc=
 
 Name: res/drawable-hdpi/map_overlay_button_pressed.9.png
 SHA1-Digest: xGnwAN7XecomVzuuTstQfPc4+OI=
@@ -347,10 +368,10 @@ Name: res/drawable-mdpi/abs__ic_search.png
 SHA1-Digest: BI0nScADeYpWWpMjIMAT2QY2Umw=
 
 Name: res/layout/map_bubble.xml
-SHA1-Digest: OMIhFp82RVQ0u2/VbtzhyAh2lB8=
+SHA1-Digest: xRuNcjUESwUwOkhbagUHPu+Wn+0=
 
 Name: res/menu/activity_main_container.xml
-SHA1-Digest: PBUxleiYVg6FrdZGmmK8Un9WKeM=
+SHA1-Digest: UOf7Vq25OsZJIsarLWDacrR/XuQ=
 
 Name: res/drawable-mdpi/abs__ic_clear_search_api_disabled_holo_light.p
  ng
@@ -360,10 +381,10 @@ Name: res/drawable-hdpi/timer_button_start_pressed.9.png
 SHA1-Digest: 9l2U7GZeZPUfZx+fZZZnDihQAAs=
 
 Name: res/layout/map.xml
-SHA1-Digest: zjw3NJWt418HNXS8MwUDgIrRP8Q=
+SHA1-Digest: GWRBJmfeYODGbhx36HNUCG+H6jg=
 
 Name: res/drawable/dotted_horizontal_divider.xml
-SHA1-Digest: KzChk735JQFFRfCRuItk1Ur3qqQ=
+SHA1-Digest: cu0Inqf+DaCaN7whYId+wry+Yf8=
 
 Name: res/drawable-mdpi/abs__ic_menu_share_holo_light.png
 SHA1-Digest: magQUaooCQ+JXt60vJsEvewVzkw=
@@ -372,7 +393,7 @@ Name: res/drawable-hdpi/abs__list_divider_holo_light.9.png
 SHA1-Digest: dLGGprCGkct4687KEh113PTpG9c=
 
 Name: res/drawable/more_highlight_bg.xml
-SHA1-Digest: k6sSC7mGgp7cu8W8GvovKjRL+vA=
+SHA1-Digest: KvFtOvkWkuYsNSf15e3/gmIPrjE=
 
 Name: res/drawable-hdpi/icon_lg_pin_station_100_stop.png
 SHA1-Digest: 7CGFjHF4ldyHQ6GnsLwjuNvLT4M=
@@ -434,6 +455,9 @@ SHA1-Digest: 1cUUR7HCn106iA3nxGAf4gLC+Zs=
 Name: res/drawable-xhdpi/abs__list_divider_holo_dark.9.png
 SHA1-Digest: 7MWXoXdFBtj0xevridg2MwrPea8=
 
+Name: res/drawable/scoop_rating_bar.xml
+SHA1-Digest: GtgkgBHeX97HSrUz0VioZnfZ15I=
+
 Name: res/drawable-xhdpi/icon_md_pin_station_0_stop.png
 SHA1-Digest: B5EtVQCk47K2ET0L1vSnf8pWlNI=
 
@@ -442,6 +466,9 @@ SHA1-Digest: KUK59sOtpbaNtfvXHu/d4jfjiLc=
 
 Name: res/drawable-xhdpi/abs__list_longpressed_holo.9.png
 SHA1-Digest: +gyZSFuut8L02SGSZyG5FJp9E+Q=
+
+Name: res/drawable-xhdpi/icon_md_pin_restaurant.png
+SHA1-Digest: Md5yuIFnI4DLtLCl/tzJBfM5qhc=
 
 Name: res/drawable-v11/abs__progress_medium_holo.xml
 SHA1-Digest: 9Q2zRJeMdHoumWXgvEUccLMU798=
@@ -562,30 +589,33 @@ SHA1-Digest: qUNyuyYuYPynTnVT2CYdtuh9ifc=
 Name: res/drawable-xhdpi/abs__dialog_full_holo_dark.9.png
 SHA1-Digest: 4nyi+mJAOsENtuCTXd465Y7Uq34=
 
-Name: res/drawable-hdpi/abs__progress_primary_holo_dark.9.png
-SHA1-Digest: xXc1hIjT3vO67xsQT889wFhGrKs=
-
 Name: res/drawable-xhdpi/abs__ic_cab_done_holo_dark.png
 SHA1-Digest: 9ghTrZlcnowNCN7lR28T+hDGtx8=
 
-Name: res/drawable-hdpi/abs__ic_go.png
-SHA1-Digest: CWye9x3DUeO8YvBEl1yhf4hqaCE=
-
-Name: res/drawable-xhdpi/abs__ic_ab_back_holo_light.png
-SHA1-Digest: z0ke+ia8F5RJjuMHQV9UdRAL3P4=
+Name: res/drawable-hdpi/abs__progress_primary_holo_dark.9.png
+SHA1-Digest: xXc1hIjT3vO67xsQT889wFhGrKs=
 
 Name: res/drawable-xhdpi/abs__textfield_search_right_selected_holo_lig
  ht.9.png
 SHA1-Digest: kaOZltbp+gBECPlua3MIn2ZZPNY=
 
-Name: res/layout/intro_details.xml
-SHA1-Digest: Udr88/jGaW9lPEn9szmUv0CflgI=
+Name: res/drawable-xhdpi/abs__ic_ab_back_holo_light.png
+SHA1-Digest: z0ke+ia8F5RJjuMHQV9UdRAL3P4=
 
-Name: res/drawable-mdpi/abs__ab_transparent_light_holo.9.png
-SHA1-Digest: +sJdheZQoN+Dh1tRbjQLO8UssyE=
+Name: res/drawable-hdpi/abs__ic_go.png
+SHA1-Digest: CWye9x3DUeO8YvBEl1yhf4hqaCE=
+
+Name: res/layout/intro_details.xml
+SHA1-Digest: qgCy6yeN7kKs36y6LMk94rilotQ=
+
+Name: res/drawable-xhdpi/review_pointer.png
+SHA1-Digest: bCthgF7qEXVMofMARS3STN9jGrQ=
 
 Name: res/drawable-xhdpi/abs__cab_background_bottom_holo_dark.9.png
 SHA1-Digest: AJF3Ifc4kOwddl5NuxnGmPnK7OU=
+
+Name: res/drawable-mdpi/abs__ab_transparent_light_holo.9.png
+SHA1-Digest: +sJdheZQoN+Dh1tRbjQLO8UssyE=
 
 Name: res/drawable-xhdpi/abs__btn_cab_done_focused_holo_light.9.png
 SHA1-Digest: j2PXHb9r4hT0LWIRTKUHxChl30c=
@@ -595,6 +625,9 @@ SHA1-Digest: ONEZMgtn9X+7V8912iJDJtcTIR0=
 
 Name: res/drawable-xhdpi/icon_md_pin_station_closed.png
 SHA1-Digest: 1eTgL8umf/TQ5w2M6HfWofTJwJo=
+
+Name: res/drawable-xhdpi/icon_md_pin_coffee.png
+SHA1-Digest: eNDiK5s8spZVU+UnqXvSbCxbgos=
 
 Name: res/drawable-hdpi/icon_sm_pin_helmet_stop.png
 SHA1-Digest: kSFKE8Vt3qBC6GIfiUyYR9+Majw=
@@ -606,13 +639,16 @@ Name: res/drawable-xhdpi/icon_lg_pin_station_closed.png
 SHA1-Digest: KLWyr6txgMsrWPH3uqxFa8CHRHs=
 
 Name: res/drawable/menu_button.xml
-SHA1-Digest: vTGOJ2qb3RTdzzY18+bkpkinATY=
+SHA1-Digest: HQ/g6HTuKZZSjEg67CZvokhxxxg=
 
 Name: res/drawable-hdpi/abs__ab_solid_light_holo.9.png
 SHA1-Digest: 7J9Q5byq8vS6biNpHOPV7jomAk8=
 
 Name: res/drawable-hdpi/ic_action_timer.png
 SHA1-Digest: QD9CxsaOQRLUg0FgjTNU/U7zQQY=
+
+Name: res/drawable-hdpi/icon_sm_pin_coffee.png
+SHA1-Digest: j1HAJTtbpSms5/u4KcncFOw3DRY=
 
 Name: res/drawable-xhdpi/icon_md_pin_station_25_stop.png
 SHA1-Digest: veVnAxIn4AzoDn2aS8Y0un7zTHo=
@@ -650,11 +686,11 @@ SHA1-Digest: t2Ax21ppEedlVhq4zKnZRFdzVow=
 Name: res/anim/slideleft.xml
 SHA1-Digest: i6Z+bsBc/knG60l3+tjHruX8TfQ=
 
-Name: res/drawable/timer_button_reset.xml
-SHA1-Digest: uqvIGOSE5vqXivZGuI3mnEwP2a0=
-
 Name: res/layout/abs__search_dropdown_item_icons_2line.xml
 SHA1-Digest: eFEwRyQJWeAy4qUU6cL3lOwid78=
+
+Name: res/drawable/timer_button_reset.xml
+SHA1-Digest: O+BrEzAm6krffnx6NhX9dYGPHGY=
 
 Name: res/drawable-xhdpi/abs__tab_unselected_pressed_holo.9.png
 SHA1-Digest: 93qSifuDk+T5snBLIpvN4wO1K7U=
@@ -663,10 +699,10 @@ Name: res/drawable-xhdpi/toggle_right_on.9.png
 SHA1-Digest: V5hmcqJPN+6DSV8UiBoIOvk0Hl4=
 
 Name: AndroidManifest.xml
-SHA1-Digest: /iEfuzAKg2fHmMsKCUNH0z3sXH8=
+SHA1-Digest: cyFrS6Ilk3nRrXYAO9Oz1abZTv0=
 
 Name: res/layout/more_faq_row.xml
-SHA1-Digest: TRCNFH756Kt34Ocel5qX6u4o+Bg=
+SHA1-Digest: ZeffK6CDc0IpKTPz48JRbooUXlo=
 
 Name: res/drawable-mdpi/abs__ab_bottom_solid_inverse_holo.9.png
 SHA1-Digest: lkth7LAKOZYfoGCArce+VxCnMkE=
@@ -699,7 +735,7 @@ Name: res/drawable-xhdpi/intro_marker.png
 SHA1-Digest: 1sf4ZzFYv7OM20zmWBocpl+P8Tk=
 
 Name: classes.dex
-SHA1-Digest: ZK+J8v+GX/ia4xQW2/fPtJUfLo8=
+SHA1-Digest: 6fX8aDpiEliZ/8iRcm+Z9TPEO00=
 
 Name: res/drawable-hdpi/abs__ab_stacked_solid_dark_holo.9.png
 SHA1-Digest: UN6hqgMRSJHlLtONWT/5Dj1jldI=
@@ -716,14 +752,20 @@ SHA1-Digest: WQFk7nnP7dUQHeOb6txyLOe2dx8=
 Name: res/drawable-hdpi/abs__list_activated_holo.9.png
 SHA1-Digest: I5QuxwxZ7oH/jjm7tnyYPs5kGh4=
 
+Name: res/anim/slide_down.xml
+SHA1-Digest: XudgpmBRgIbDkK6dqxa6vnZpPEw=
+
 Name: res/layout/place_station_row.xml
-SHA1-Digest: lL8wUIs5Ozd1qWyTOFexVxKxYlU=
+SHA1-Digest: J0rgy9y1CVeYPVkkJBe0YOINf6A=
 
 Name: res/drawable-hdpi/abs__list_selector_disabled_holo_light.9.png
 SHA1-Digest: aHGtLDCWy+vhaDj0NTpqi86fqY8=
 
+Name: res/drawable-xhdpi/list_bg_gradient.png
+SHA1-Digest: OG7JROZm1Xb7Hegh3LFdfRL6wJc=
+
 Name: res/drawable/timer_button_start.xml
-SHA1-Digest: bBssn2EFYJ8X5PsCzhWWUM3ZdCs=
+SHA1-Digest: gVFdentpid40tjqz93kP2iDbBYM=
 
 Name: res/drawable-mdpi/abs__ab_solid_dark_holo.9.png
 SHA1-Digest: JA/enCGf3vLcIhBUD+ZyXReZbdA=
@@ -739,6 +781,9 @@ SHA1-Digest: JVOZMnaGWYH0Hg5O5LT3QjgCESY=
 
 Name: res/drawable-xhdpi/abs__btn_cab_done_default_holo_dark.9.png
 SHA1-Digest: kSrvB3EWls1z+/3U+R3NgEiJtIQ=
+
+Name: res/drawable-xhdpi/tab_scoop_title_bg.png
+SHA1-Digest: O9H3F8EUIZuPMpYs9AQ+zFyDfy4=
 
 Name: res/drawable-xhdpi/ic_launcher.png
 SHA1-Digest: I7s6dleYtS0QsNWL+zVKsKUXMig=
@@ -767,6 +812,12 @@ SHA1-Digest: kzQLW28P8eWguDdlc8z7TZJH1NI=
 Name: res/drawable-xhdpi/abs__spinner_48_outer_holo.png
 SHA1-Digest: z8eDjuVkpuobA0RIVrS16o9J5Bk=
 
+Name: res/drawable/nyt_app_bg.xml
+SHA1-Digest: mMd/Bx9ynTBBV6HoKKIWuGUMHro=
+
+Name: res/drawable-xhdpi/icon_lg_pin_restaurant.png
+SHA1-Digest: cGvC1VWWG9kTaS+VjlCixN8ggt0=
+
 Name: res/drawable-xhdpi/abs__textfield_search_right_default_holo_ligh
  t.9.png
 SHA1-Digest: LP34PriZNDRNdN9W77qIDDoq5LA=
@@ -791,6 +842,9 @@ SHA1-Digest: ts+1yVv8L3pBUMna7Ynj/ql914g=
 
 Name: res/drawable-hdpi/abs__tab_selected_holo.9.png
 SHA1-Digest: kEcZGvbxtC+bZbKatmju03RhNRY=
+
+Name: res/drawable-xhdpi/icon_tab_bg.png
+SHA1-Digest: 5fXwfwuown4Fe3QVIg2aiYzLHOY=
 
 Name: res/layout-large/abs__action_mode_close_item.xml
 SHA1-Digest: LhpUukAoMzYyW1JyzQrYpqV2zOs=
@@ -823,6 +877,9 @@ SHA1-Digest: RYYQ9ky5+LbX58GkSGnq9am+1YQ=
 Name: res/drawable-hdpi/abs__ab_solid_dark_holo.9.png
 SHA1-Digest: LQeQB4SfeOCgaQHq+K6yaooPJA4=
 
+Name: res/drawable/map_overlay_tabview_details.xml
+SHA1-Digest: tyKYY1XPy3wqDgKkVOEfEIYbCzA=
+
 Name: res/drawable-xhdpi/abs__textfield_search_right_default_holo_dark
  .9.png
 SHA1-Digest: /iZl4Km15UpQyDgf83tI/WB3s8U=
@@ -843,7 +900,7 @@ Name: res/drawable-hdpi/icon_lg_pin_station_25_start.png
 SHA1-Digest: qQoHkRwsML9zY22C+PV8m2wOi2k=
 
 Name: res/layout/slidingmenurow.xml
-SHA1-Digest: nxZlazzT/tbO/UxHOmVP7NwB4ZA=
+SHA1-Digest: HcuYUFpKIQrjtFMLxPKuY2Ztsg0=
 
 Name: res/drawable/list_row.xml
 SHA1-Digest: 9GUHx5hKcJ1hUOvKKuSEIgo7+6k=
@@ -852,7 +909,10 @@ Name: res/drawable-hdpi/favorites_empty_heart.png
 SHA1-Digest: QANz6wVO2bBrnPcPQUtS9KL6HbI=
 
 Name: res/layout/safety_tips.xml
-SHA1-Digest: rANEtHQqPE1QGWHIeyIBuolZNoI=
+SHA1-Digest: 6jI++hKFc9datP8zE0M8L/l12dA=
+
+Name: res/layout/made_by_activity.xml
+SHA1-Digest: 5xVm46BPc7ZW/dbHoJsqTPvVLGQ=
 
 Name: res/drawable-hdpi/menu_nav_transparent_on.png
 SHA1-Digest: 5zX/+uzgc6ijqsuHIdTcsoepje0=
@@ -888,7 +948,7 @@ Name: res/drawable-xhdpi/timer_alarm.png
 SHA1-Digest: A5JjtuTSPfTdwMXd6bts/ny4xac=
 
 Name: res/layout/stations.xml
-SHA1-Digest: wSNIlVQqa4CUm1zlnyk5+4nqBp8=
+SHA1-Digest: JRcLFN90WbTYvugUZXvSULHnqlo=
 
 Name: res/drawable-hdpi/icon_md_pin_helmet.png
 SHA1-Digest: ocwmYaSYDwfngRbz3UEJtO3KsXw=
@@ -929,14 +989,14 @@ SHA1-Digest: L8/d1J7ntCKiMkIOv6UF/AuQJKs=
 Name: res/drawable-mdpi/abs__menu_dropdown_panel_holo_light.9.png
 SHA1-Digest: T50IgNiJErJZ5L3zMlptrDfcYkA=
 
+Name: res/drawable-mdpi/abs__btn_cab_done_default_holo_light.9.png
+SHA1-Digest: evd0EU/YZFFZwbRyq7iIZV65NZE=
+
 Name: res/drawable/abs__activated_background_holo_light.xml
 SHA1-Digest: b0+ovCp9qeVQSkCOSZEFmqmisV4=
 
 Name: res/drawable-hdpi/icon_md_pin_station_0_stop.png
 SHA1-Digest: h3vCrmVpFST6jmIjxjQmWsdekqQ=
-
-Name: res/drawable-mdpi/abs__btn_cab_done_default_holo_light.9.png
-SHA1-Digest: evd0EU/YZFFZwbRyq7iIZV65NZE=
 
 Name: res/drawable-xhdpi/menu_nav_transparent_off.png
 SHA1-Digest: e5gwH40WZHzLxk05RlOfx+qsszQ=
@@ -953,21 +1013,27 @@ SHA1-Digest: /VOO1F7v0e7BwbvvsBlmSS2oQYM=
 Name: res/drawable-xhdpi/abs__btn_cab_done_default_holo_light.9.png
 SHA1-Digest: UrSk0ksmUU7GG5QwHZgVRtcqKN8=
 
+Name: res/layout/made_by.xml
+SHA1-Digest: o9rwbBagxB8WF8gplvq3/MhCayM=
+
 Name: res/layout/howitworks_app_help.xml
-SHA1-Digest: Qcq0g7+7F+r6h7YaMbZw/kZqlHs=
+SHA1-Digest: I6qRL4jVq/Bs7+UlnPRV4m7xMl4=
+
+Name: res/drawable-xhdpi/icon_sm_pin_restaurant.png
+SHA1-Digest: hIyXdls1XXdFDTcula557OJvwOE=
 
 Name: res/layout/pricing_24hour7day.xml
-SHA1-Digest: 7udyvugROe907ZpwM0KGps+DkqU=
+SHA1-Digest: cahQ3lvf73UMYO5O9WvZb0ovwGM=
 
 Name: res/drawable-xhdpi/abs__textfield_search_right_selected_holo_dar
  k.9.png
 SHA1-Digest: XyV0vs3FWLiYHklAwa3gjPZ7/CA=
 
-Name: res/drawable-hdpi/abs__cab_background_bottom_holo_light.9.png
-SHA1-Digest: fTxB+O/i4iEBg9WIU38rF2dXunA=
-
 Name: res/drawable-hdpi/abs__ab_transparent_dark_holo.9.png
 SHA1-Digest: m5QFx1gdJhv0MAkVCkXC3cRnNfo=
+
+Name: res/drawable-hdpi/abs__cab_background_bottom_holo_light.9.png
+SHA1-Digest: fTxB+O/i4iEBg9WIU38rF2dXunA=
 
 Name: res/drawable-hdpi/abs__spinner_ab_default_holo_dark.9.png
 SHA1-Digest: 2rYQimeQPm5hvMbPTxBaNcQkQA8=
@@ -1020,16 +1086,19 @@ Name: res/drawable-hdpi/icon_lg_pin_generic.png
 SHA1-Digest: EoHRI83tqzGR1z9CSd6HtkMfSIM=
 
 Name: res/layout/favorites.xml
-SHA1-Digest: +YhFCrx95W+RrOgEr4XyC80xdIw=
+SHA1-Digest: Y7tThENeTU5EUg0qYM/thW0AcFg=
 
 Name: res/layout/directions_header.xml
-SHA1-Digest: Fa9wOqCoiVvxyjce69aXHmel8Ug=
+SHA1-Digest: A4rp2DxbpsNfBhfpbeYsjqheM3o=
 
 Name: assets/version.txt
-SHA1-Digest: TW6OvXVZ3zvflAaw8kGeCQY79Gk=
+SHA1-Digest: 5b9RpXQCjl3ClToV1gQwK3oI87E=
 
 Name: res/drawable-xhdpi/menu_nav_stations_on.png
 SHA1-Digest: U3gcAJvdEmivXnZYHCUFmJz6Ak0=
+
+Name: res/drawable-xhdpi/icon_nyt.png
+SHA1-Digest: KKLC3NVK6NRnzqVorCLccUrV3KE=
 
 Name: res/drawable-mdpi/abs__list_activated_holo.9.png
 SHA1-Digest: k0KH726CtUSh87GvbE2iA7vlVBY=
@@ -1037,8 +1106,11 @@ SHA1-Digest: k0KH726CtUSh87GvbE2iA7vlVBY=
 Name: res/drawable-hdpi/abs__ic_clear_search_api_holo_light.png
 SHA1-Digest: vTnHJ3zZ/fr/BUGO7lumSG7aPN4=
 
+Name: res/drawable-xhdpi/icon_the_scoop.png
+SHA1-Digest: 7T4DzrfikBKaHbhFIYdy4S+7C14=
+
 Name: res/layout/howitworks_about.xml
-SHA1-Digest: 5WApum2idm2bOacj0/xlcd16dOo=
+SHA1-Digest: QsZQBdhMJDz0D8sXpo4acq6QGWk=
 
 Name: res/drawable-hdpi/timer_button_stop_default.9.png
 SHA1-Digest: qyHrMPPGTZBASdrpAmy/1Fh+2ak=
@@ -1050,7 +1122,7 @@ Name: res/drawable-hdpi/abs__ic_clear_disabled.png
 SHA1-Digest: mCEgFmgmOmgpYrPjaKjE6mco9vA=
 
 Name: res/layout/more_faq.xml
-SHA1-Digest: oaRXGDFbVxFta7lgy58njuju8kA=
+SHA1-Digest: b3YQ4aBryxNTETF6HfxeVhP9ZQ4=
 
 Name: res/drawable/abs__textfield_searchview_holo_dark.xml
 SHA1-Digest: jPXZW9au7W7bclUOPA9OnDMGl3g=
@@ -1061,11 +1133,11 @@ SHA1-Digest: 291iL0AV8tlaZg9RNR0sVcA0Xz4=
 Name: res/drawable/list_row_favorite.xml
 SHA1-Digest: rWVp2EI+E37dktmEQokrC6CjvPw=
 
-Name: res/layout/abs__popup_menu_item_layout.xml
-SHA1-Digest: UmYvCz04uRL2DdNRoZ7/lZTfNPw=
-
 Name: res/drawable-mdpi/abs__cab_background_bottom_holo_dark.9.png
 SHA1-Digest: n3dtdQ9T0vK71LFyTnyarQ7fxZE=
+
+Name: res/layout/abs__popup_menu_item_layout.xml
+SHA1-Digest: UmYvCz04uRL2DdNRoZ7/lZTfNPw=
 
 Name: res/drawable-hdpi/map_overlay_dots_hdivider.png
 SHA1-Digest: ZYgDGMyRy+plK42eqL9hB9BnBhs=
@@ -1079,14 +1151,17 @@ SHA1-Digest: AMuJ/WfMGopnmJb+32Vz3m5Am1g=
 Name: res/drawable-xhdpi/timer_button_reset_pressed.9.png
 SHA1-Digest: MDccs1PcYjkbyNMfC1yIviah0H0=
 
+Name: res/drawable-xhdpi/icon_lg_pin_coffee.png
+SHA1-Digest: vFKswxCYGuUMKbtlh1cL6pjy4Zg=
+
+Name: res/drawable-mdpi/abs__cab_background_bottom_holo_light.9.png
+SHA1-Digest: YAD+7uhwn3C0CEVGoxT7j8bucVQ=
+
 Name: res/drawable-hdpi/abs__ab_share_pack_holo_dark.9.png
 SHA1-Digest: buvtfh9lLA0kHo+UdZy9EgSy8oI=
 
 Name: res/drawable-hdpi/icons_turnbyturn_slightright.png
 SHA1-Digest: 9BYCAWo3pXUaCF2BhRwDS5LRcIg=
-
-Name: res/drawable-mdpi/abs__cab_background_bottom_holo_light.9.png
-SHA1-Digest: YAD+7uhwn3C0CEVGoxT7j8bucVQ=
 
 Name: res/drawable-xhdpi/abs__ic_search.png
 SHA1-Digest: kpW6HlG/LB21Na4Li7xUvCDGZgw=
@@ -1103,11 +1178,14 @@ SHA1-Digest: KdD23QfMBiGcalmV6oOJTgPoUAs=
 Name: res/drawable-xhdpi/abs__ab_bottom_solid_inverse_holo.9.png
 SHA1-Digest: 24/SkEr0uzW3efbr12bid3TOmc4=
 
-Name: res/drawable-xhdpi/map_overlay_dots_vdivider.png
-SHA1-Digest: lcaEBZeyJxysaoYyhf8lk4jtMs8=
+Name: res/drawable-xhdpi/icon_star_black.png
+SHA1-Digest: DyMoskA9MGQrizQaOby0C6XzkRk=
 
 Name: res/drawable-xhdpi/map_infobubble_station.png
 SHA1-Digest: XIC9V8mhONkldNQr4MCSY8NxLbM=
+
+Name: res/drawable-xhdpi/map_overlay_dots_vdivider.png
+SHA1-Digest: lcaEBZeyJxysaoYyhf8lk4jtMs8=
 
 Name: res/layout-xlarge/abs__screen_action_bar.xml
 SHA1-Digest: klPf1Z1sMkgKCf/MvccBnXNGEQU=
@@ -1116,17 +1194,17 @@ Name: res/drawable-xhdpi/abs__progress_bg_holo_light.9.png
 SHA1-Digest: 9YJMbOWf99gghxun1lt4eR+M5/0=
 
 Name: res/drawable/map_overlay_button.xml
-SHA1-Digest: mp30QMU+XaHtkjsyphyOzGxonFY=
+SHA1-Digest: XOl9j8Y2h8XreS9CyZjwieLfIzA=
 
-Name: res/drawable-mdpi/abs__textfield_search_right_selected_holo_dark
- .9.png
-SHA1-Digest: Flt/QP18emgO91CXz9oEZa213l4=
+Name: res/drawable-hdpi/icon_md_pin_station_50_stop.png
+SHA1-Digest: Mo3MZsXKL3bNWiwChwkc2GjmWG8=
 
 Name: res/drawable/layer_button_active.xml
 SHA1-Digest: lZOodwADy7OcHoXLUDEVMlVlif0=
 
-Name: res/drawable-hdpi/icon_md_pin_station_50_stop.png
-SHA1-Digest: Mo3MZsXKL3bNWiwChwkc2GjmWG8=
+Name: res/drawable-mdpi/abs__textfield_search_right_selected_holo_dark
+ .9.png
+SHA1-Digest: Flt/QP18emgO91CXz9oEZa213l4=
 
 Name: res/drawable-mdpi/abs__textfield_search_right_selected_holo_ligh
  t.9.png
@@ -1144,14 +1222,14 @@ SHA1-Digest: CBgvPEppqiTsFtkoIPKpiVaW0Bw=
 Name: res/drawable-hdpi/abs__list_divider_holo_dark.9.png
 SHA1-Digest: YCNfTwWWU/kOX50OLTka+djt2a0=
 
-Name: res/layout/abs__action_bar_tab_bar_view.xml
-SHA1-Digest: Re9pf81QkbJo/1KrRKMBGhuJ8+Y=
-
 Name: res/drawable-hdpi/icon_toast_calculating.png
 SHA1-Digest: jl2NoB7aXa6DaVkH8DRedcDEtv8=
 
+Name: res/layout/abs__action_bar_tab_bar_view.xml
+SHA1-Digest: Re9pf81QkbJo/1KrRKMBGhuJ8+Y=
+
 Name: res/drawable/menu_background.xml
-SHA1-Digest: Zn4RMH9Z7EGq43jBhHn02+CRscA=
+SHA1-Digest: pZYGCeeHossmnLOq/7rgySQmArs=
 
 Name: res/drawable-hdpi/icon_lg_pin_station_closed.png
 SHA1-Digest: 0LCqkzPDfqlwasrpSAMQMkxpod0=
@@ -1162,11 +1240,11 @@ SHA1-Digest: EElqPd2sfc94OIfGfM2c6PFhdG0=
 Name: res/drawable-hdpi/icon_lg_pin_station_100_start.png
 SHA1-Digest: URdMy1Fr1T0Ki/3VxRn77nZvZg4=
 
-Name: res/layout/abs__screen_action_bar_overlay.xml
-SHA1-Digest: +Q7Oez9fIyviHUijWphVZFPjo0s=
-
 Name: res/drawable-hdpi/icon_lg_pin_helmet.png
 SHA1-Digest: Pc/jH87gccj3VsqBCE+iz6Zr5aY=
+
+Name: res/layout/abs__screen_action_bar_overlay.xml
+SHA1-Digest: +Q7Oez9fIyviHUijWphVZFPjo0s=
 
 Name: res/drawable-mdpi/abs__spinner_ab_focused_holo_light.9.png
 SHA1-Digest: RlKXmBRG932A/8TUkCqDEp/Oec8=
@@ -1179,6 +1257,9 @@ SHA1-Digest: 5hykmbRZCNgaYVriQNRE6mXKEVw=
 
 Name: res/drawable-xhdpi/icon_share.png
 SHA1-Digest: iKSP5GvrvNnIeyjxjQKogN6TRyU=
+
+Name: res/layout/scoop_nyt_app.xml
+SHA1-Digest: JVqDetSco0bMzUVjra2ygZZUt00=
 
 Name: res/drawable-xhdpi/icon_lg_pin_station_75.png
 SHA1-Digest: ozrwizaG8Er1E2wfFWfxdTchWrI=
@@ -1200,19 +1281,19 @@ Name: res/anim/slideup.xml
 SHA1-Digest: ndLSNgzOGKKLnI3TgAPkj1PZ5+k=
 
 Name: res/layout/howitworks_unlock.xml
-SHA1-Digest: MmOrJrpyGxj8uJ612/wK1cu0dNY=
+SHA1-Digest: SAlJczo5IINal1Oko2PKln557tI=
 
 Name: res/layout/safety_nyc_cycling_map.xml
-SHA1-Digest: QYceQsfvxUwI9keefd2hTL8HoLE=
+SHA1-Digest: +eDYltqA1RyLEGCpl2fymizj9Sk=
 
 Name: res/layout/activity_main.xml
-SHA1-Digest: AjfnrYngJokZssrMU5pISKG4jZA=
+SHA1-Digest: bOFxgRIEs1oCefxGtIVsE7Cz4fI=
 
 Name: res/layout/more_pager.xml
-SHA1-Digest: 53uZ6YMaKYIbqPqOtSi1+0Mvgns=
+SHA1-Digest: hNOaTKoWadJ/FaYlVQIw/OgDF5A=
 
 Name: res/layout/safety_preride_check.xml
-SHA1-Digest: ZKwCW7g4O47PAjo6Bq1uYv7jxL0=
+SHA1-Digest: CsSks/5mUmFAw/od6eVHOSY2wmg=
 
 Name: res/drawable-mdpi/abs__btn_cab_done_pressed_holo_light.9.png
 SHA1-Digest: vLrFK/b+U1ubMj5LsccQrZPqhPI=
@@ -1262,6 +1343,9 @@ SHA1-Digest: WT1IUFdo/ectFX/pDg4GL3BcKtY=
 Name: res/drawable-xhdpi/icon_md_pin_station_closed_stop.png
 SHA1-Digest: mZPZf7JhXd3qdV4U+lAv9QZ7TzU=
 
+Name: res/drawable-xhdpi/icon_call.png
+SHA1-Digest: AiPChd5v5D4+G+4c/BP1w7gg7hg=
+
 Name: res/drawable-mdpi/abs__ab_bottom_solid_dark_holo.9.png
 SHA1-Digest: p6tVNDTsfPGyFyOWCgiBaoFubkw=
 
@@ -1275,13 +1359,13 @@ Name: res/layout/abs__search_view.xml
 SHA1-Digest: rr0njwCJtNusqoDHK4WarkeaMiI=
 
 Name: res/layout/safety_bike_smart.xml
-SHA1-Digest: Y76sPinES2KK2eWZIrrewrpdc94=
+SHA1-Digest: D9P39nKCMpJkN9JjVifRQHH/0m0=
 
 Name: res/drawable-hdpi/icon_md_pin_station_100.png
 SHA1-Digest: ZjUe8ZbTC/gWntgKWSQXuhKUnNM=
 
 Name: res/layout/contact.xml
-SHA1-Digest: vgzcd05ACVP0WLFSK5A8vxC6oOM=
+SHA1-Digest: uWsw22uBmARNPTG/h8Le2voY9ik=
 
 Name: res/drawable-xhdpi/icon_sm_pin_citibranch.png
 SHA1-Digest: Amx1rdyjx4zDh/3nMT0pEJ5jzKo=
@@ -1372,7 +1456,7 @@ Name: res/drawable-hdpi/icon_md_pin_citibranch.png
 SHA1-Digest: uzCSClv0IwvCyHVZNXfigPeoWJs=
 
 Name: res/layout/menu_list.xml
-SHA1-Digest: ls/aMW4uqcedOSzfzyMjvxjV9/U=
+SHA1-Digest: rwyjaCdFJkHOYi4ZEqTxa7ZTut0=
 
 Name: res/drawable-mdpi/abs__tab_selected_pressed_holo.9.png
 SHA1-Digest: 8GgxToDPNPXEylKDthpLy4Ick+4=
@@ -1381,13 +1465,16 @@ Name: res/drawable-hdpi/icon_md_pin_generic.png
 SHA1-Digest: c+4VM0kMkq/rRNnJhRnBl0nX4LA=
 
 Name: res/layout/safety_report_problems.xml
-SHA1-Digest: aV3utlunqCeW2XFA967e5Ex+sp4=
+SHA1-Digest: vACiZwXJRjo7XoOLGq4IRM7lTLM=
 
 Name: res/drawable/abs__btn_cab_done_holo_light.xml
 SHA1-Digest: tzeq5ib7w8EY8WElakQ6a//NVTA=
 
 Name: res/drawable-xhdpi/abs__ic_clear_disabled.png
 SHA1-Digest: ON7Cgoqj1QbPTbGfYNzqsOG+Yc4=
+
+Name: res/drawable-xhdpi/icon_star_half.png
+SHA1-Digest: pl05pAB4mvPoz1qC9vITEmIRIdM=
 
 Name: res/drawable-hdpi/abs__ab_bottom_solid_inverse_holo.9.png
 SHA1-Digest: i/uYhSEBxB7ovRwrIQwhBn7UXxE=
@@ -1396,7 +1483,7 @@ Name: res/drawable-xhdpi/icon_lg_pin_station_75_stop.png
 SHA1-Digest: AZJSqioZNZBFrUZpQG4CKzFNW6o=
 
 Name: res/layout/action_button_timer.xml
-SHA1-Digest: 6yWj5PiQH1B/U/mi73mITV/JwMs=
+SHA1-Digest: Ohz7pSfSZwj3EjL+uxG3jEIy05k=
 
 Name: res/drawable-hdpi/abs__tab_selected_pressed_holo.9.png
 SHA1-Digest: Mf5vFOmXvP3L4a4yavvUzcmRIt8=
@@ -1415,7 +1502,7 @@ Name: res/drawable-xhdpi/map_overlay_button_panel.9.png
 SHA1-Digest: SBuI9bmuKXpQq03xk2fVUjFag6s=
 
 Name: res/layout/timer_dialog.xml
-SHA1-Digest: pfmtjHju5QLttnsMgzq0D9ZAlkk=
+SHA1-Digest: mUcFAzmWQefbiseQf5QyZRLii2A=
 
 Name: res/drawable-mdpi/abs__textfield_search_right_default_holo_dark.
  9.png
@@ -1436,8 +1523,11 @@ SHA1-Digest: GtmhIZtPpidOUSNn6lLVxhCaCCo=
 Name: res/drawable-hdpi/ic_action_logo.png
 SHA1-Digest: sQbCKhdm45n9mZvDiBsXM/h0KVM=
 
+Name: res/layout/place_scoop_row.xml
+SHA1-Digest: p75+4vtTC5spbS4rg4pIS5ts1rU=
+
 Name: res/layout/settings.xml
-SHA1-Digest: by/2orQ4+qJPHfLD68LAN6tB9lQ=
+SHA1-Digest: zUKdaIhRlvPQ0tWP4G+CF3LuM9Y=
 
 Name: res/drawable-xhdpi/abs__ab_stacked_solid_light_holo.9.png
 SHA1-Digest: 42971/d6vUeJwpIgA/Gna2Xuny8=
@@ -1445,11 +1535,14 @@ SHA1-Digest: 42971/d6vUeJwpIgA/Gna2Xuny8=
 Name: res/layout/abs__list_menu_item_checkbox.xml
 SHA1-Digest: 8G0p+BQPlrftJTmWQ5H/ExhXiXQ=
 
+Name: res/layout/tab_scoop_header.xml
+SHA1-Digest: LFbfKl/oLqWMmXFn2HhG5k920Gk=
+
 Name: res/drawable-mdpi/abs__spinner_ab_focused_holo_dark.9.png
 SHA1-Digest: zgXeuD+vtHQLeG2Fx0Z+o3WNMdQ=
 
 Name: res/layout/timer.xml
-SHA1-Digest: F9Kyvpq0735blVD6f5GC7S9KpXI=
+SHA1-Digest: StXfzxSDPtFnCSDXA4lfDBhCCNQ=
 
 Name: res/drawable-hdpi/abs__textfield_search_right_default_holo_light
  .9.png
@@ -1459,8 +1552,11 @@ Name: res/drawable-mdpi/abs__textfield_search_selected_holo_light.9.pn
  g
 SHA1-Digest: 6vDYSvqjCV6hhgrQ48/jub5xACs=
 
+Name: res/drawable-xhdpi/review_bg.9.png
+SHA1-Digest: pci7YXtkmVAsS6AFIa2XDco/768=
+
 Name: res/layout/place_favorite_row.xml
-SHA1-Digest: 0Rm0aQL1VxzDGhKkRDoZgAURs1s=
+SHA1-Digest: XnTajqCGdX9K41ECl9jsRm9MAFA=
 
 Name: res/drawable-xhdpi/abs__tab_selected_pressed_holo.9.png
 SHA1-Digest: qE6ZWVBFFV5unAqK1PvQv1Ern7Q=
@@ -1470,7 +1566,7 @@ Name: res/drawable-hdpi/abs__textfield_search_right_selected_holo_ligh
 SHA1-Digest: fZZVnjJ9uRcuFU2HNa1kc4BwWe8=
 
 Name: res/layout/howitworks_ride.xml
-SHA1-Digest: FqnJSAkUafGH0f0EE9JojeCY5F8=
+SHA1-Digest: rZq767OyzfEHqV6JKntTqCXW5uA=
 
 Name: res/drawable-xhdpi/timer_button_stop_pressed.9.png
 SHA1-Digest: ma/DcI3zKFRkwWwWBRXoCJTecpI=
@@ -1479,7 +1575,7 @@ Name: res/drawable/abs__list_selector_holo_light.xml
 SHA1-Digest: EEGmtHOVwfwemvzvslbMB+9O2Bc=
 
 Name: res/layout/terms.xml
-SHA1-Digest: GznVrJbqYxzEMSbFNAIdgttmt6M=
+SHA1-Digest: rIaGgebNEFlHgWlyaDeRKowYjms=
 
 Name: res/drawable-hdpi/timer_button_reset_pressed.9.png
 SHA1-Digest: CbnzOB08lu5eat76CNtMOLiG2Xs=
@@ -1488,7 +1584,7 @@ Name: res/drawable-hdpi/icon_share.png
 SHA1-Digest: xrz1PU2V7+w91oQjs+kCUDIJQ8E=
 
 Name: res/layout/howitworks_return.xml
-SHA1-Digest: LUVsJ6fCZhPj5/UA9D/IA6OXdX0=
+SHA1-Digest: 93GulEiB66+H5oOJA4OkqUcU7aw=
 
 Name: res/drawable-hdpi/menu_nav_timer_on.png
 SHA1-Digest: h/LnKHhW8TUEhsDSmkICPQjz3wk=
@@ -1501,6 +1597,9 @@ SHA1-Digest: pIvlLcfsU86iNXFyL8w7JPtbezk=
 
 Name: res/drawable-hdpi/menu_nav_stations_off.png
 SHA1-Digest: fdFfjGL4+siBGGsFnaJ+0QULMGw=
+
+Name: res/drawable-xhdpi/made_by_bg.png
+SHA1-Digest: 7kkiyNAdijLjNuOEX/xtifJjJRk=
 
 Name: res/drawable-hdpi/icons_turnbyturn_turnleft.png
 SHA1-Digest: 2vQQ30Ks7qMgItnkOz9kI5dp2jw=
@@ -1542,7 +1641,7 @@ Name: res/drawable-xhdpi/icon_md_pin_station_100_start.png
 SHA1-Digest: HCduJceeJqHZ9BzHll14uSBVcic=
 
 Name: res/layout/safety_be_predictable.xml
-SHA1-Digest: 4z/EKvNau2Ud0KiHNnliMmHCtrM=
+SHA1-Digest: rQyAonh0HmGn3PeuUrNS7E5jbnY=
 
 Name: res/drawable-hdpi/check_mark.png
 SHA1-Digest: xnr8SYxIp+s+pAPcJi+QROMPE5s=
@@ -1578,7 +1677,7 @@ Name: res/layout/abs__action_menu_layout.xml
 SHA1-Digest: mJKypCro6tPIH9JEh3UY3bEZGEI=
 
 Name: res/layout/safety_wear_a_helmet.xml
-SHA1-Digest: HyimdJYECEPB8YdZGhleSnAucxo=
+SHA1-Digest: vkSec12A3Skgj3tgDHbBtWUKO0c=
 
 Name: res/drawable-xhdpi/abs__ab_bottom_solid_light_holo.9.png
 SHA1-Digest: Rk+UnlSVvdbnqPvNBdXZj8dcQQ0=
@@ -1602,7 +1701,7 @@ Name: res/drawable-xhdpi/abs__ic_go.png
 SHA1-Digest: tINOgi0AQI11mwL/d1BPQRmhUdY=
 
 Name: res/layout/splash.xml
-SHA1-Digest: V+K6lojwwsU4I1irDntKvsMqrCs=
+SHA1-Digest: qWqV2P4FFsSiC77bKR87kJOru/4=
 
 Name: res/drawable-hdpi/map_infobubble.png
 SHA1-Digest: Qzi9Sk86BKWmldtK2RuY5iVcYlA=
@@ -1634,11 +1733,11 @@ SHA1-Digest: wyyZYpcmtqcCJsM2VQqzRO1lejU=
 Name: res/drawable-mdpi/abs__ic_clear_search_api_holo_light.png
 SHA1-Digest: DKBAKHuPA9O+9U3MbN+9PMTd9xQ=
 
-Name: res/drawable-mdpi/abs__btn_cab_done_focused_holo_dark.9.png
-SHA1-Digest: qbSomUVZ3g5AkIAMKg2tBPBu5vs=
-
 Name: res/color/abs__primary_text_holo_light.xml
 SHA1-Digest: +ydabc0iIor7p4YMrbxZRAFm1rE=
+
+Name: res/drawable-mdpi/abs__btn_cab_done_focused_holo_dark.9.png
+SHA1-Digest: qbSomUVZ3g5AkIAMKg2tBPBu5vs=
 
 Name: res/drawable-xhdpi/icon_toast_calculating.png
 SHA1-Digest: JT3+VWeq31aWq9sJ7rVKNAkWYaM=
@@ -1670,8 +1769,11 @@ SHA1-Digest: JM5VQnzG9iKlOuJNOvgyA3yXKK4=
 Name: res/drawable-hdpi/map_infobubble_station.png
 SHA1-Digest: EigtcdYBDHVZq+oSB4UFl6NkIas=
 
+Name: res/color/call_text_selector.xml
+SHA1-Digest: h9PtBMfBB61XzrzkHKcl8aq9o9Y=
+
 Name: res/layout/directions_row.xml
-SHA1-Digest: YGiQ8iU+UNdF2O2v8ctbQcTqM9s=
+SHA1-Digest: lC1v5og7e1PfodKXx+2aSWusAxc=
 
 Name: res/drawable-hdpi/icon_lg_pin_station_0_stop.png
 SHA1-Digest: VGTb18seIx9fQDAZwdUt232utBw=
@@ -1683,7 +1785,7 @@ Name: res/layout-xlarge/abs__screen_action_bar_overlay.xml
 SHA1-Digest: ibi5wb+9/hnI6qGL4q+pODGg90M=
 
 Name: resources.arsc
-SHA1-Digest: bNL7LU1l2/KxJkDs95m7us8VOJs=
+SHA1-Digest: l3UyK3zjictyGKzvyqM5lDBWv30=
 
 Name: res/drawable-hdpi/abs__ic_commit_search_api_holo_light.png
 SHA1-Digest: fZgFAwvNTLzK9YVyY0fpoX/Douk=
@@ -1700,6 +1802,12 @@ SHA1-Digest: oroq283lnDZ3nOJlA3yoQOuwgAY=
 Name: res/drawable-xhdpi/icon_toast_favorited.png
 SHA1-Digest: zpP3ObSq7atAugZmxkIQnybBo9A=
 
+Name: res/drawable-xhdpi/nyt_icon.png
+SHA1-Digest: hjKeVIn0X3H7LMdKLDhK3+qqntA=
+
+Name: res/drawable-xhdpi/icon_sm_pin_coffee.png
+SHA1-Digest: y9P2a3rs6lK30xxhGq4ZwyFWUtM=
+
 Name: res/drawable-hdpi/icon_sm_pin_citibranch_stop.png
 SHA1-Digest: q1crhl2LjMhtg0v1eoB3CMXfb6M=
 
@@ -1710,7 +1818,7 @@ Name: res/drawable-hdpi/icon_favorite.png
 SHA1-Digest: ZFoPeTPp/Q9LB1p2NDtSHIW4SXw=
 
 Name: res/drawable/tab_indicator_blue.xml
-SHA1-Digest: R6Ows+uKgnL+3jni0zUuKkC9w9Q=
+SHA1-Digest: 8Lrvk7b+CTGaSlmWQvY/gH8puHI=
 
 Name: res/drawable-mdpi/abs__spinner_ab_disabled_holo_dark.9.png
 SHA1-Digest: pft58stbqE33Gn17frV/Ljb/Kzw=
@@ -1757,6 +1865,9 @@ SHA1-Digest: 15tQ2OsywNpdQGDL4yWxR3xWDMI=
 Name: res/drawable-mdpi/abs__spinner_48_outer_holo.png
 SHA1-Digest: E8JKf9W+nZlbdfhR4O6pmB6q14c=
 
+Name: res/anim/slide_up.xml
+SHA1-Digest: NCDrqlSbP56eCVXL3fbC4Ou38jw=
+
 Name: res/drawable-xhdpi/abs__textfield_search_default_holo_dark.9.png
 SHA1-Digest: pUJrNEalrEwaKjtoYc52KMFxCMI=
 
@@ -1789,6 +1900,9 @@ SHA1-Digest: EzbjCye/uGxa7cvMLDTWht20LU8=
 
 Name: res/drawable-hdpi/abs__ic_cab_done_holo_dark.png
 SHA1-Digest: Ero5pbYBER8pLL3KDqfMLnpZrB0=
+
+Name: res/drawable-xhdpi/scoop_tab_review_bg.9.png
+SHA1-Digest: LXd+5BkReFq+k7BcBTdxEZWHD80=
 
 Name: res/drawable-xhdpi/intro_right_arrow.png
 SHA1-Digest: BxeKoRyrcs9/WOczy2uXF0WO0Nw=
@@ -1836,6 +1950,9 @@ SHA1-Digest: 4iHqV7E+BRvqEi6eouyDhUKu0/0=
 Name: res/drawable-mdpi/abs__spinner_ab_default_holo_light.9.png
 SHA1-Digest: UMvtqC6hnVlluJzlyGv4xoHdabo=
 
+Name: res/drawable-hdpi/icon_lg_pin_coffee.png
+SHA1-Digest: UwLeV7E9XMmmLmVO7FGSi8U3I4Y=
+
 Name: res/drawable-xhdpi/icon_sm_pin_helmet_start.png
 SHA1-Digest: OiA6hovAV4yVF6ih022S/qB8q4k=
 
@@ -1852,7 +1969,7 @@ Name: res/anim/fadein.xml
 SHA1-Digest: CwmQen+2Aq0092utwzwA4hrMeXQ=
 
 Name: res/drawable/dotted_vertical_divider.xml
-SHA1-Digest: qRoYtWhALo0ozPKxwXJOSrv5ofQ=
+SHA1-Digest: j3zgdf+1ypB7ShIeR/atHnwSvQY=
 
 Name: res/drawable/abs__progress_horizontal_holo_light.xml
 SHA1-Digest: h1wrCoLG50DxiyQZBZ5Ln6Wnu/A=
@@ -1881,6 +1998,9 @@ SHA1-Digest: zKfmdx+Pi5Y3QzyfnABhh0Y9JaM=
 Name: res/drawable-xhdpi/abs__cab_background_top_holo_light.9.png
 SHA1-Digest: 7wvjARiCpNkOl2QCtebZs8NrjLc=
 
+Name: res/drawable-xhdpi/fueled.png
+SHA1-Digest: pp9gQQN8w145OwvxibGpddPlAUw=
+
 Name: res/drawable-small-ldpi/splash_logo.png
 SHA1-Digest: K287KVHKm6GLGQLTkAvABsBkiCU=
 
@@ -1888,22 +2008,22 @@ Name: res/color/abs__primary_text_holo_dark.xml
 SHA1-Digest: x8hiTBKuld61YKY2GLHRNRppZ2E=
 
 Name: res/drawable/splash.xml
-SHA1-Digest: SfvcJJqEBJkIFfmf7l3VkfBNUhY=
+SHA1-Digest: GW4r0v2hAYGf4jKfYR3VxRCsu/I=
 
 Name: res/drawable-xhdpi/map_infobubble.png
 SHA1-Digest: eBPUjUG7wYnOZNQ8kM166MDnfFA=
 
 Name: res/drawable/more_list_selector.xml
-SHA1-Digest: AVMS0WASoSRmbuLuI1hvHwmye8s=
+SHA1-Digest: wlCqczc3DZWmlp2eWvDSO5983Go=
 
 Name: res/layout/favorites_header.xml
-SHA1-Digest: +tEIZF/peDDp5M+yclxN8qBUUPM=
+SHA1-Digest: BQtV9LnI5VGTW2yrBiv2q1ZrwSI=
 
 Name: res/drawable-hdpi/icon_md_pin_generic_stop.png
 SHA1-Digest: w7KWDQ4imbiKsQQpy290zYchB2w=
 
 Name: res/layout/map_place_overlay.xml
-SHA1-Digest: yyunvmGjlGeiF+8samQKciLrNm4=
+SHA1-Digest: DYfi8Ys/SLuCJMIhK4xJuG37hCg=
 
 Name: res/drawable-xhdpi/icons_turnbyturn_straightup.png
 SHA1-Digest: GB0FUPfdwrbdEsxiStUnXEHFkes=
@@ -1924,10 +2044,10 @@ Name: res/drawable-xhdpi/abs__ic_menu_share_holo_dark.png
 SHA1-Digest: SbXpQTQd3txNn3aJ9x68LoTCQ88=
 
 Name: res/layout/layers.xml
-SHA1-Digest: NBKCCShQNrjFVQuCde2ZbT/r0rw=
+SHA1-Digest: pnpesoygqTVMSIFc5KckcmxPkdI=
 
 Name: res/layout/map_route.xml
-SHA1-Digest: tQFSfFqFneCBSFSbwDcYqIZWNQE=
+SHA1-Digest: qrqpkSytGgOJhSF9fK+cP0hm0uQ=
 
 Name: res/drawable-hdpi/loader_bg.9.png
 SHA1-Digest: v+9ql4UTYB2Raw7neQmrxkv4Mhk=
@@ -1960,7 +2080,7 @@ Name: res/drawable-hdpi/map_route_reverse_button.png
 SHA1-Digest: d6JAlyE7qjNmPEnmUW3XfwYKdOk=
 
 Name: res/layout/slidingmenumain.xml
-SHA1-Digest: Y/hjNph29VbKf4AR2mhnZCPGTJU=
+SHA1-Digest: ICBbUTuaG5frs4h4sWNW7SCeAfw=
 
 Name: res/drawable/abs__ic_menu_moreoverflow_holo_light.xml
 SHA1-Digest: 1jad6nBmdvgQEADID7ZqQxf0bec=
@@ -1978,7 +2098,7 @@ Name: res/drawable-xhdpi/icon_favorite.png
 SHA1-Digest: BAiImjwbu+8W/B8EZfMkeSSA0Bg=
 
 Name: res/drawable/timer_button_stop.xml
-SHA1-Digest: 6RP0oJl/vWMbjL0PNBoGTj4L5yQ=
+SHA1-Digest: PHhtatzIYjGvuJpqH1JyNQqhOKU=
 
 Name: res/drawable-mdpi/ic_launcher.png
 SHA1-Digest: 440rto2Gg5oaY6YKojVJATdOViU=

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/MoreContainer">
+        <com.citibikenyc.citibike.helpers.FontableTextView android:text="@string/more_items_app_help" style="@style/MoreTitle" />
+        <LinearLayout style="@style/MoreMain">
+            <com.citibikenyc.citibike.helpers.FontableTextView android:text="@string/how_app_help_h1" style="@style/MoreH2" />
+            <com.citibikenyc.citibike.helpers.FontableTextView android:text="@string/how_app_help_p1" style="@style/MoreP" />
+            <com.citibikenyc.citibike.helpers.FontableTextView android:text="@string/how_app_help_h2" style="@style/MoreH2" />
+            <com.citibikenyc.citibike.helpers.FontableTextView android:text="@string/how_app_help_p2" style="@style/MoreP" />
+            <com.citibikenyc.citibike.helpers.FontableTextView android:text="@string/how_app_help_h3" style="@style/MoreH2" />
+            <com.citibikenyc.citibike.helpers.FontableTextView android:text="@string/how_app_help_p3" style="@style/MoreP" />
+            <com.citibikenyc.citibike.helpers.FontableTextView android:text="@string/how_app_help_h4" style="@style/MoreH2" />
+            <com.citibikenyc.citibike.helpers.FontableTextView android:text="@string/how_app_help_p4" style="@style/MoreP" />
+            <com.citibikenyc.citibike.helpers.FontableTextView android:text="@string/how_app_help_h5" style="@style/MoreH2" />
+            <com.citibikenyc.citibike.helpers.FontableTextView android:text="@string/how_app_help_p5" style="@style/MoreP" />
+            <com.citibikenyc.citibike.helpers.FontableTextView android:text="@string/how_app_help_h6" style="@style/MoreH2" />
+            <com.citibikenyc.citibike.helpers.FontableTextView android:text="@string/how_app_help_p6" style="@style/MoreP" />
+            <com.citibikenyc.citibike.helpers.FontableTextView android:text="@string/how_app_help_h7" style="@style/MoreH2" />
+            <com.citibikenyc.citibike.helpers.FontableTextView android:text="@string/how_app_help_p7" style="@style/MoreP" />
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>

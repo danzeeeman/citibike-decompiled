@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/MoreContainer">
+        <com.citibikenyc.citibike.helpers.FontableTextView android:text="@string/how_return_title" style="@style/MoreTitle" />
+        <LinearLayout style="@style/MoreMain">
+            <com.citibikenyc.citibike.helpers.FontableTextView android:text="@string/how_return_h1" style="@style/MoreH1" />
+            <com.citibikenyc.citibike.helpers.FontableTextView android:text="@string/how_return_p1" style="@style/MoreP" />
+            <com.citibikenyc.citibike.helpers.FontableTextView android:text="@string/how_return_p2" style="@style/MoreP" />
+            <com.citibikenyc.citibike.helpers.FontableTextView android:text="@string/how_return_h2" style="@style/MoreH2" />
+            <com.citibikenyc.citibike.helpers.FontableTextView android:text="@string/how_return_p3" style="@style/MoreP" />
+            <com.citibikenyc.citibike.helpers.FontableTextView android:text="@string/how_return_h3" style="@style/MoreH2" />
+            <com.citibikenyc.citibike.helpers.FontableTextView android:text="@string/how_return_p4" style="@style/MorePlast" />
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>

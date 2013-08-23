@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:layout_gravity="top" android:orientation="vertical" android:id="@id/Details" android:background="@drawable/map_overlay_tabview_details" android:paddingBottom="40.0dip" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.citibikenyc.citibike.helpers.FontableTextView android:textSize="20.0sp" android:textColor="#ff424242" android:id="@id/place_label" android:layout_marginTop="14.0dip" android:bufferType="spannable" android:text="@string/label" style="@style/OverlayText" />
+    <com.citibikenyc.citibike.helpers.FontableTextView android:textSize="14.0sp" android:textColor="#ff747474" android:id="@id/place_description" android:visibility="gone" android:layout_marginTop="18.0dip" android:bufferType="spannable" android:text="" style="@style/OverlayText" />
+    <LinearLayout android:gravity="center" android:orientation="horizontal" android:id="@id/bike_info" android:padding="0.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="14.0dip">
+        <LinearLayout android:gravity="center" android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <com.citibikenyc.citibike.helpers.FontableTextView android:textSize="30.0sp" android:textColor="#ff999999" android:layout_gravity="center_horizontal" android:id="@id/station_bike_count" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/default_value" />
+            <com.citibikenyc.citibike.helpers.FontableTextView android:textSize="14.0sp" android:textColor="#ff999999" android:layout_gravity="center_horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="-5.0dip" android:text="@string/bikes_label" />
+        </LinearLayout>
+        <View android:background="#ffcccccc" android:layout_width="1.0dip" android:layout_height="fill_parent" android:layout_marginLeft="10.0dip" android:layout_marginTop="6.0dip" android:layout_marginRight="10.0dip" android:layout_marginBottom="4.0dip" />
+        <LinearLayout android:gravity="center" android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <com.citibikenyc.citibike.helpers.FontableTextView android:textSize="30.0sp" android:textColor="#ff999999" android:layout_gravity="center_horizontal" android:id="@id/station_dock_count" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/default_value" />
+            <com.citibikenyc.citibike.helpers.FontableTextView android:textSize="14.0sp" android:textColor="#ff999999" android:layout_gravity="center_horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="-5.0dip" android:text="@string/docks_label" />
+        </LinearLayout>
+    </LinearLayout>
+    <com.citibikenyc.citibike.helpers.FontableTextView android:textSize="12.0sp" android:textColor="#ff747474" android:id="@id/place_address" android:visibility="gone" android:layout_marginTop="14.0dip" android:text="@string/map_overlay_address" style="@style/OverlayText" />
+    <LinearLayout android:layout_gravity="center" android:orientation="vertical" android:background="@drawable/map_overlay_button_panel" android:padding="6.0dip" android:layout_width="wrap_content" android:layout_height="100.0dip" android:layout_marginTop="15.0dip">
+        <Button android:id="@id/detail_route_to_here" android:layout_marginBottom="6.0dip" android:text="@string/map_overlay_directions_to_here" android:onClick="routeToMarker" style="@style/OverlayButton" />
+        <Button android:id="@id/detail_route_from_here" android:layout_marginBottom="0.0dip" android:text="@string/map_overlay_directions_from_here" android:onClick="routeFromMarker" style="@style/OverlayButton" />
+    </LinearLayout>
+    <View android:layout_marginTop="20.0dip" style="@style/DottedDividerHorizontal" />
+    <LinearLayout android:gravity="center" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <Button android:id="@id/button_favorite_place" android:text="@string/map_overlay_favorite" android:drawableLeft="@drawable/icon_favorite" android:onClick="favoriteLocation" style="@style/OverlayDotButton" />
+        <View style="@style/DottedDividerVertical" />
+        <Button android:id="@id/button_share_place" android:text="@string/map_overlay_share" android:drawableLeft="@drawable/icon_share" android:onClick="shareLocation" style="@style/OverlayDotButton" />
+    </LinearLayout>
+    <View android:layout_marginBottom="0.0dip" style="@style/DottedDividerHorizontal" />
+</LinearLayout>

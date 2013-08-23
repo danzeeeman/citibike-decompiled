@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:clickable="true" android:layout_width="fill_parent" android:layout_height="fill_parent" android:onClick="closeDetails"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TabHost android:id="@*android:id/tabhost" android:paddingTop="150.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <LinearLayout android:orientation="vertical" android:background="#ffe6e7ea" android:padding="0.0dip" android:clickable="true" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_margin="0.0dip">
+            <TabWidget android:id="@*android:id/tabs" android:background="@drawable/tab_bg" android:paddingLeft="10.0dip" android:paddingRight="10.0dip" android:paddingBottom="2.0dip" android:layout_width="fill_parent" android:layout_height="49.0dip" />
+            <FrameLayout android:id="@*android:id/tabcontent" android:paddingTop="10.0dip" android:layout_width="fill_parent" android:layout_height="fill_parent">
+                <FrameLayout android:layout_gravity="top" android:id="@id/Details" android:paddingLeft="@dimen/overlay_details_padding" android:paddingRight="@dimen/overlay_details_padding" android:paddingBottom="@dimen/overlay_details_padding" android:layout_width="fill_parent" android:layout_height="fill_parent">
+                    <include android:id="@id/tab_location_details" android:layout_width="fill_parent" android:layout_height="wrap_content" layout="@layout/location_details" />
+                    <include android:id="@id/tab_scoop_details" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" layout="@layout/scoop_details" />
+                </FrameLayout>
+                <com.citibikenyc.citibike.helpers.PlaceListView android:orientation="vertical" android:id="@id/Nearby" android:background="#ffe6e7ea" android:padding="0.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_margin="0.0dip" />
+                <com.citibikenyc.citibike.helpers.PlaceListView android:orientation="vertical" android:id="@id/Stops" android:background="#ffe6e7ea" android:padding="0.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_margin="0.0dip" />
+            </FrameLayout>
+        </LinearLayout>
+    </TabHost>
+</LinearLayout>

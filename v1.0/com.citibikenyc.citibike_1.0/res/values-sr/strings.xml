@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_google_play_services_install_title">Преузимање Google Play услуга</string>
+    <string name="common_google_play_services_install_text_phone">Ова апликација не може да се покрене без Google Play услуга, које недостају на телефону.</string>
+    <string name="common_google_play_services_install_text_tablet">Ова апликација не може да се покрене без Google Play услуга, које недостају на таблету.</string>
+    <string name="common_google_play_services_install_button">Преузми Google Play услуге</string>
+    <string name="common_google_play_services_enable_title">Омогућавање Google Play услуга</string>
+    <string name="common_google_play_services_enable_text">Ова апликација неће функционисати осим ако не омогућите Google Play услуге.</string>
+    <string name="common_google_play_services_enable_button">Омогући Google Play услуге</string>
+    <string name="common_google_play_services_update_title">Ажурирање Google Play услуга</string>
+    <string name="common_google_play_services_update_text">Ова апликација не може да се покрене осим ако не ажурирате Google Play услуге.</string>
+    <string name="common_google_play_services_update_button">Ажурирај</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:background="@drawable/nyt_app_bg" android:padding="10.0dip" android:clickable="true" android:layout_width="fill_parent" android:layout_height="wrap_content" android:onClick="openPlayStore"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/imageView1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="5.0dip" android:layout_marginRight="10.0dip" android:src="@drawable/nyt_icon" />
+    <LinearLayout android:orientation="vertical" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0">
+        <TextView android:textSize="@dimen/scoop_nyt_app_title" android:textStyle="bold" android:textColor="@*android:color/black" android:id="@id/scoop_nyt_app_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/nyt_app_title" />
+        <TextView android:textSize="@dimen/scoop_nyt_app_details" android:textColor="@color/map_overlay_scoop_address2" android:id="@id/scoop_nyt_app_details" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/nyt_app_details" />
+    </LinearLayout>
+</LinearLayout>

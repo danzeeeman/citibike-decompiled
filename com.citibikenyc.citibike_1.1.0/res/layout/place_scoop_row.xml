@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="#ffe6e7ea" android:paddingLeft="@dimen/place_station_padding_left" android:paddingRight="@dimen/place_station_padding_right" android:layout_width="fill_parent" android:layout_height="85.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/row_container" android:background="@drawable/list_row" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <ImageView android:id="@id/placeRow_icon" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="14.0dip" android:layout_marginTop="20.0dip" android:layout_marginRight="12.0dip" android:layout_marginBottom="20.0dip" android:adjustViewBounds="true" android:contentDescription="@string/stations_row_desc" />
+        <LinearLayout android:gravity="left" android:orientation="vertical" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0">
+            <com.citibikenyc.citibike.helpers.FontableTextView android:textSize="16.0sp" android:textColor="#ff424242" android:id="@id/placeRow_label" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/label" android:maxLines="1" />
+            <com.citibikenyc.citibike.helpers.FontableTextView android:textSize="14.0sp" android:textColor="#ff747474" android:id="@id/placeRow_scoopDescription" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+        </LinearLayout>
+        <com.citibikenyc.citibike.helpers.FontableTextView android:textSize="25.0sp" android:textColor="#ff999999" android:id="@id/placeRow_distance" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/default_distance" />
+        <com.citibikenyc.citibike.helpers.FontableTextView android:textSize="14.0sp" android:textColor="#ff999999" android:gravity="bottom" android:id="@id/placeRow_distanceUnit" android:layout_width="wrap_content" android:layout_height="25.0dip" android:layout_marginLeft="3.0dip" android:layout_marginRight="14.0dip" android:text="@string/distance_miles" />
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="abs__background_holo_dark">#ff000000</color>
+    <color name="abs__background_holo_light">#fff3f3f3</color>
+    <item type="color" name="abs__bright_foreground_holo_dark">@color/abs__background_holo_light</item>
+    <item type="color" name="abs__bright_foreground_holo_light">@color/abs__background_holo_dark</item>
+    <color name="abs__bright_foreground_disabled_holo_dark">#ff4c4c4c</color>
+    <color name="abs__bright_foreground_disabled_holo_light">#ffb2b2b2</color>
+    <item type="color" name="abs__bright_foreground_inverse_holo_dark">@color/abs__bright_foreground_holo_light</item>
+    <item type="color" name="abs__bright_foreground_inverse_holo_light">@color/abs__bright_foreground_holo_dark</item>
+    <color name="abs__holo_blue_light">#ff33b5e5</color>
+    <color name="holo_blue_bright">#ff00ddff</color>
+    <color name="menu_button_text">#ffffffff</color>
+    <color name="menu_button_text_selected">#ff48d7fc</color>
+    <color name="route_biking_polyline">#ff094786</color>
+    <color name="current_location_text">#ff34afef</color>
+    <color name="toggle_on_text">#ffffffff</color>
+    <color name="toggle_off_text">#ff999999</color>
+    <color name="tab_scoop_brought_to_you_by">#ff747474</color>
+    <color name="map_overlay_scoop_address1">#ff424242</color>
+    <color name="map_overlay_scoop_address2">#ff666666</color>
+    <color name="map_overlay_scoop_review">#ff747474</color>
+    <color name="map_overlay_scoop_partner">#ff2a2a2a</color>
+</resources>

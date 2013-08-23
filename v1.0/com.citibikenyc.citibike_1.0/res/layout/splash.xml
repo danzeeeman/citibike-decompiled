@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0">
+        <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/splash_logo" android:adjustViewBounds="true" android:contentDescription="@string/splash_logo_desc" />
+    </LinearLayout>
+    <LinearLayout android:gravity="center" android:orientation="horizontal" android:background="@drawable/splash_bar_bg" android:layout_width="fill_parent" android:layout_height="40.0dip">
+        <com.citibikenyc.citibike.helpers.FontableTextView android:textSize="12.0sp" android:textColor="#ff4dc6f4" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/splash_message" />
+    </LinearLayout>
+</LinearLayout>

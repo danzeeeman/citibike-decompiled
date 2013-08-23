@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_google_play_services_install_title">Google Play開発者サービスをインストール</string>
+    <string name="common_google_play_services_install_text_phone">このアプリの実行にはGoogle Play開発者サービスが必要ですが、お使いの携帯端末にはインストールされていません。</string>
+    <string name="common_google_play_services_install_text_tablet">このアプリの実行にはGoogle Play開発者サービスが必要ですが、お使いのタブレットにはインストールされていません。</string>
+    <string name="common_google_play_services_install_button">Play開発者サービスを入手</string>
+    <string name="common_google_play_services_enable_title">Google Play開発者サービスを有効化</string>
+    <string name="common_google_play_services_enable_text">このアプリの実行には、Google Play開発者サービスの有効化が必要です。</string>
+    <string name="common_google_play_services_enable_button">Play開発者サービスを有効化</string>
+    <string name="common_google_play_services_update_title">Google Play開発者サービスの更新</string>
+    <string name="common_google_play_services_update_text">このアプリの実行には、Google Play開発者サービスの更新が必要です。</string>
+    <string name="common_google_play_services_update_button">更新</string>
+</resources>

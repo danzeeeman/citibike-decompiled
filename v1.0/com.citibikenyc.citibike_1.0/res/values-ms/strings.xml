@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_google_play_services_install_title">Dapatkan perkhidmatan Google Play</string>
+    <string name="common_google_play_services_install_text_phone">Apl ini tidak akan berjalan tanpa perkhidmatan Google Play dan apl ini tiada pada telefon anda.</string>
+    <string name="common_google_play_services_install_text_tablet">Apl ini tidak akan berjalan tanpa perkhidmatan Google Play dan apl ini tiada pada tablet anda.</string>
+    <string name="common_google_play_services_install_button">Dapatkan perkhidmatan Google Play</string>
+    <string name="common_google_play_services_enable_title">Dayakan perkhidmatan Google Play</string>
+    <string name="common_google_play_services_enable_text">Apl ini tidak akan berfungsi kecuali anda mendayakan perkhidmatan Google Play.</string>
+    <string name="common_google_play_services_enable_button">Dayakan perkhidmatan Google Play</string>
+    <string name="common_google_play_services_update_title">Kemas kini perkhidmatan Google Play</string>
+    <string name="common_google_play_services_update_text">Apl ini tidak akan berjalan kecuali anda mengemas kini perkhidmatan Google Play.</string>
+    <string name="common_google_play_services_unknown_issue">Isu tidak diketahui dengan perkhidmatan Google Play.</string>
+    <string name="common_google_play_services_update_button">Kemas kini</string>
+</resources>

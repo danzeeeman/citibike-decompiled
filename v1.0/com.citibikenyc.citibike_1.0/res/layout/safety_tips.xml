@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:clickable="true" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0" style="@style/IntroContainer">
+        <FrameLayout android:id="@id/intro_fragment" android:paddingTop="1.0dip" style="@style/IntroMain">
+            <LinearLayout android:layout_gravity="center" android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content">
+                <com.citibikenyc.citibike.helpers.FontableTextView android:textSize="42.0sp" android:textColor="#ff333333" android:layout_marginBottom="12.0dip" android:text="@string/safety_tips_title" style="@style/IntroTextView" />
+                <com.citibikenyc.citibike.helpers.FontableTextView android:textSize="28.0sp" android:textColor="#ff02aff0" android:layout_marginBottom="30.0dip" android:text="@string/safety_tips_list" android:lineSpacingMultiplier="1.3" style="@style/IntroTextView" />
+                <com.citibikenyc.citibike.helpers.FontableTextView android:textSize="16.0sp" android:textColor="#ff747474" android:text="@string/safety_tips_disclaimer" android:lineSpacingMultiplier="1.3" style="@style/IntroTextView" />
+            </LinearLayout>
+        </FrameLayout>
+    </LinearLayout>
+    <LinearLayout android:background="@drawable/button_container_bg" android:padding="5.0dip" android:clickable="true" android:layout_width="fill_parent" android:layout_height="52.0dip">
+        <Button android:id="@id/safety_tips_continue" android:clickable="true" android:text="@string/continue_button" style="@style/DoneButton" />
+    </LinearLayout>
+</LinearLayout>

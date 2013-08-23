@@ -1,0 +1,42 @@
+[
+    {
+        "question": "What is Citi Bike?",
+        "answer": "Citi Bike is NYC's bike share system. Bike sharing systems are fleets of specially designed, sturdy, very durable bikes that are locked into a network of docking stations located throughout the city. Citi Bike offers annual membership or short-term passes to provide access to the bikes anytime you want. Annual members enroll online and receive a key that they can use at any station to release a bike. For a 24-Hour or 7-Day Pass, sign up at any station kiosk with a credit or debit card. Citi Bikes can be returned to any station in the system, creating an efficient network with many possible start and end points."
+    },
+    {
+        "question": "Who can use Citi Bike?",
+        "answer": "Citi Bike is available to anyone 16 years old and older.  Use Citi Bike by purchasing a 24-Hour or 7-Day Pass, or an Annual Membership. From tourists to daily commuters, join the wide range of people who use Citi Bike to unlock New York."
+    },
+    {
+        "question": "What if a station is full or has no bikes when I get there?",
+        "answer": "Check real-time bike and dock availability by tapping the map on the bar below. Each pin identifies a station and shows the number of bikes and docks available. If you arrive at a full station, select &ldquo;Request Time Credit&rdquo; on the kiosk touchscreen and you will be offered an additional 15 minutes to reach a station with available docks."
+    },
+    {
+        "question": "May I leave a Citi Bike unattended while I run an errand or lock it with my own bike lock somewhere?",
+        "answer": "No! You are responsible for your bike while it is rented, from the moment it is unlocked to the moment it is securely docked. For example, if you leave your Citi Bike undocked while running errands and the bike is stolen, you are responsible for it and will be required to pay for its replacement (up to $1,000 plus administrative fees). The density of the Citi Bike system helps ensure that wherever you go in the program area, you'll always find a station within a few blocks of your destination. Once the Citi Bike is docked in a station, it is not your responsibility. So find a station nearby, dock the bike, wait for the green light to confirm the bike is secure, and run your errands with peace of mind."
+    },
+    {
+        "question": "What if my Citi Bike gets stolen?",
+        "answer": "If a Citi Bike is taken from you, you must first file a police report with NYPD and then call the Citi Bike customer service center at <a href=\"tel:+1-855-245-3311\">855-BIKE-311 (855-245-3311)</a>. Call center staff will work with you to resolve the situation."
+    },
+    {
+        "question": "What&rsquo;s the replacement cost of a bike?",
+        "answer": "It can cost up to $1,000 plus administrative fees to replace a Citi Bike."
+    },
+    {
+        "question": "What happens if someone crashes and is injured?",
+        "answer": "If you are involved in a crash and anyone is injured, call 911 immediately. You must file a police report with the NYPD and call Citi Bike at <a href=\"tel:+1-855-245-3311\">855-BIKE-311 (855-245-3311)</a> to report the crash.  If the crash is such that you are unable to keep charge of your Citi Bike, NYPD will notify Citi Bike and a staff member will retrieve it."
+    },
+    {
+        "question": "Are helmets required? Where can I buy one?",
+        "answer": "Helmets are not required while riding Citi Bike, but are encouraged. Need a helmet? Here are two ways to get your own:<br /><br />Buy a helmet from a local bike shop or helmet retailer.  Select the &ldquo;Bike Shops&ldquo; layer on the Citi Bike map below to find the nearest retailer.  Along with their Citi Bike key, Annual Members receive a coupon good for $10 off one helmet at any bike shop in NYC.<br /><br />Receive a free helmet and fitting from the Department of Transportation.  NYC DOT fits and gives away the official New York City bicycle helmet at events throughout the city.  Call 311 to schedule a fitting."
+    },
+    {
+        "question": "Are the bikes available 24 hours a day, 365 days a year?",
+        "answer": "Yes. The Citi Bike system will be &ldquo;open&rdquo; around the clock, with bikes and docks available to Annual Members and Pass holders. Only in the event of severely inclement weather will the system be shut down.  System status announcements will be made via social media and text alerts.  Find Citi Bike at <br><a href=\"http://www.facebook.com/citibikenyc\">www.facebook.com/citibikenyc</a> and <a href=\"http://www.twitter.com/citibikenyc\">@citibikenyc</a>."
+    },
+    {
+        "question": "Intro screen",
+        "answer": ""
+    }
+]

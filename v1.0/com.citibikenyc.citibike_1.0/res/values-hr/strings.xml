@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_google_play_services_install_title">Preuzimanje usluga za Google Play</string>
+    <string name="common_google_play_services_install_text_phone">Ova aplikacija neće funkcionirati bez Usluga za Google Play koje nisu instalirane na vašem telefonu.</string>
+    <string name="common_google_play_services_install_text_tablet">Ova se aplikacija neće pokrenuti bez Usluga za Google Play koje nisu instalirane na vašem tabletu.</string>
+    <string name="common_google_play_services_install_button">Preuzmi Usluge za Google Play</string>
+    <string name="common_google_play_services_enable_title">Omogućavanje usluga za Google Play</string>
+    <string name="common_google_play_services_enable_text">Ova aplikacija neće raditi ako ne omogućite Usluge za Google Play.</string>
+    <string name="common_google_play_services_enable_button">Omogući usluge za Google Play</string>
+    <string name="common_google_play_services_update_title">Ažuriranje usluga za Google Play</string>
+    <string name="common_google_play_services_update_text">Ova se aplikacija neće pokrenuti ako ne ažurirate Usluge za Google Play.</string>
+    <string name="common_google_play_services_update_button">Ažuriraj</string>
+</resources>

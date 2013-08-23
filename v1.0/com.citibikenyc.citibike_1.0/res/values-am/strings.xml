@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_google_play_services_install_title">Google Play አገልግሎቶችን አግኝ</string>
+    <string name="common_google_play_services_install_text_phone">ይህ መተግበሪያ ያለGoogle Play አገልግሎቶች አይሰራም፣ እሱ ደግሞ ስልክህ ላይ የለም።</string>
+    <string name="common_google_play_services_install_text_tablet">ይህ መተግበሪያ ያለGoogle Play አገልግሎቶች አይሰራም፣ እሱ ደግሞ ጡባዊ ቱኮህ ላይ የለም።</string>
+    <string name="common_google_play_services_install_button">Google Play አገልግሎቶችን አግኝ</string>
+    <string name="common_google_play_services_enable_title">Google Play አገልግሎቶችን አንቃ</string>
+    <string name="common_google_play_services_enable_text">Google Play አገልግሎቶችን እስካላነቃህ ድረስ ይህ መተግበሪያ አይሰራም።</string>
+    <string name="common_google_play_services_enable_button">Google Play አገልግሎቶችን አንቃ</string>
+    <string name="common_google_play_services_update_title">Google Play አገልግሎቶችን አዘምን</string>
+    <string name="common_google_play_services_update_text">Google Play አገልግሎቶችን እስክታዘምን ድረስ ይህ መተግበሪያ አይሰራም።</string>
+    <string name="common_google_play_services_update_button">አዘምን</string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:layout_gravity="bottom" android:orientation="vertical" android:id="@id/routeResultBar" android:background="#fffafafa" android:clickable="true" android:layout_width="fill_parent" android:layout_height="wrap_content" android:onClick="onMapRoutebarClick"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <View style="@style/TimerDividerDark" />
+    <View style="@style/TimerDividerLight" />
+    <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="47.0dip">
+        <com.citibikenyc.citibike.helpers.FontableTextView android:textSize="14.0sp" android:textStyle="bold" android:textColor="#ff424242" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="12.0dip" android:text="@string/map_route_bar_going_to" />
+        <View android:background="#ffcccccc" android:layout_width="1.0dip" android:layout_height="20.0dip" android:layout_marginLeft="10.0dip" android:layout_marginRight="10.0dip" />
+        <com.citibikenyc.citibike.helpers.FontableTextView android:textSize="14.0sp" android:textColor="#ff747474" android:id="@id/routeResultBar_destination" android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="@string/label" android:layout_weight="1.0" />
+        <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="10.0dip" android:src="@drawable/map_routebar_arrow" android:adjustViewBounds="true" android:contentDescription="@string/map_route_bar_arrow_desc" />
+    </LinearLayout>
+</LinearLayout>
