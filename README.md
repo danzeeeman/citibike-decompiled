@@ -1,5 +1,4 @@
 #[GIVE ME YOUR DATA! ...Please?](http://makeitdoathing.com/index.php/give-me-your-data/)
-===================
 ##Decompiled CitiBike Android App v1.1.0
 
 End-Points
